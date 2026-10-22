@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-name>/x-cover-skills.git
+git clone https://github.com/FizzEat/x-cover-skills.git
 ```
 
 ```bash
