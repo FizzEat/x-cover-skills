@@ -1,0 +1,4094 @@
+{
+ "blueprint-isometric": [
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "等距投影 Isometric",
+   "en": "isometric illustration of smart factory, conveyor belts warehouses delivery trucks stacked in 2.5D, flat colors, technical cutaway",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "技术线框/蓝图",
+   "en": "wireframe render, blueprint, technical drawing, blue background, annotations, HUD",
+   "feat": "线框显示、蓝色或深色背景、尺寸标注与 HUD"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "当代企业极简 Corporate Minimalism",
+   "en": "Modern tech company brand poster, flat minimal design, enormous white space, single bold sans-serif headline, desaturated documentary photography crop, subtle gray, premium clean feel",
+   "feat": ""
+  }
+ ],
+ "terminal-hero": [
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "面板磁贴 Dashboard Tiles",
+   "en": "Analytics dashboard with tile-based layout, row of KPI stat cards on top, charts and tables filling equal rectangular panels below, dark mode, data dense but legible",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "极简瑞士回潮 Neo-Swiss Minimal",
+   "en": "Neo-Swiss minimalist poster, single Helvetica family only, extreme asymmetric grid, huge white margins, one small bold element, restrained monochrome with one accent color, gallery aesthetic",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "屏幕自发光作主光",
+   "en": "screen light, phone glow, self-lit display key, monitor glow",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "仪表盘 Dashboard",
+   "en": "executive analytics dashboard on large monitor, KPI scorecards top row, line and bar charts below, dark theme, real-time data",
+   "feat": ""
+  }
+ ],
+ "node-workflow-window": [
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "几何节点",
+   "en": "geometry nodes, procedural modeling, instancing, modifier stack",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "面板磁贴 Dashboard Tiles",
+   "en": "Analytics dashboard with tile-based layout, row of KPI stat cards on top, charts and tables filling equal rectangular panels below, dark mode, data dense but legible",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "仪表盘 Dashboard",
+   "en": "executive analytics dashboard on large monitor, KPI scorecards top row, line and bar charts below, dark theme, real-time data",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "移动界面 Mobile App UI",
+   "en": "iOS mobile banking app screens set, tab bar navigation, card lists, biometric login, clean modern fintech interface",
+   "feat": ""
+  }
+ ],
+ "bento-grid": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "卡片式 Card Layout",
+   "en": "Card-based dashboard UI, grid of uniform cards each containing icon title and stats, subtle drop shadows, rounded corners, light gray background, clean modern SaaS style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "面板磁贴 Dashboard Tiles",
+   "en": "Analytics dashboard with tile-based layout, row of KPI stat cards on top, charts and tables filling equal rectangular panels below, dark mode, data dense but legible",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "高透明钠钙玻璃",
+   "en": "clear soda-lime glass, transparent, clean refractions, window glass",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "硼硅/铅晶质玻璃",
+   "en": "crystal glass, cut glass, prismatic dispersion, fire, lead crystal",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "磨砂玻璃",
+   "en": "frosted glass, ground glass, privacy glass, sandblasted, etched",
+   "feat": ""
+  }
+ ],
+ "swiss-infographic": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "瑞士国际主义 Swiss International Style",
+   "en": "Swiss Style poster design, mathematical grid layout, asymmetric balance, Helvetica typography flush left, objective black and white photography, generous white space, minimal",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "瑞士朋克 Swiss Punk / 新浪潮",
+   "en": "Swiss Punk typographic poster, Wolfgang Weingart style, multiple overlapping layers of mixed weight sans-serif type, ruled lines crossing, letterpress texture, chaotic rhythm, cyan magenta misregistration",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "栏式网格 Column Grid",
+   "en": "Editorial magazine page, six-column grid, body text flowing in columns, wide gutters, pull quotes spanning two columns, clean serif typography, structured",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "极简瑞士回潮 Neo-Swiss Minimal",
+   "en": "Neo-Swiss minimalist poster, single Helvetica family only, extreme asymmetric grid, huge white margins, one small bold element, restrained monochrome with one accent color, gallery aesthetic",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "瑞士新浪潮 Swiss New Wave",
+   "en": "Swiss New Wave poster by April Greiman, transparent overlapping layers, pixelated and vector mixed, photography with colored overlays, tilted perspective typography, early digital glitch, blue magenta",
+   "feat": ""
+  }
+ ],
+ "checklist-card": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "卡片式 Card Layout",
+   "en": "Card-based dashboard UI, grid of uniform cards each containing icon title and stats, subtle drop shadows, rounded corners, light gray background, clean modern SaaS style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "等距小场景/极简 + 正交相机 + 单柔光箱；圆润倒角柔和投影",
+   "en": "3D icon, isometric icon, UI icon, app glyph, cute 3D",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/粘土 + 正交正视 + 单侧柔光；识别度高、少细节",
+   "en": "app icon, 3D glyph, cute 3D icon, simple, app store",
+   "feat": ""
+  }
+ ],
+ "split-compare": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "全屏分屏 Split Screen",
+   "en": "Split screen landing page, left half photography mood image, right half solid color with headline and form, perfectly divided 50/50, modern clean, choice-oriented design",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "对角分割 Diagonal Split",
+   "en": "Sports poster with bold diagonal split dividing two color fields, athlete silhouette on one side, big slanted typography on the other, high contrast neon, aggressive energy",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "高调纯净",
+   "en": "high key, bright and airy, clean, minimal shadows, medical tech, sterile",
+   "feat": "明亮均匀、几乎无阴影、洁净医疗/科技气质"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "高调纯白",
+   "en": "high key, pure white cyclorama, clean studio, bright",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  }
+ ],
+ "roadmap-timeline": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "时间轴 Timeline",
+   "en": "Vertical timeline infographic, central line with circular milestone nodes, alternate left-right content cards, date labels, clean flat vector style, corporate history",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低多边形",
+   "en": "low poly, flat shading, visible triangles, minimal design, vibrant color palette",
+   "feat": "可见三角面、扁平着色、极少顶点、高饱和配色"
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "低多边形（Low-Poly）",
+   "en": "low-polygon design, visible triangular facets, origami-like flat planes, retro 3D PS1 era, flat shaded no smoothing",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "低多边形 Low Poly",
+   "en": "low poly abstract animal head wallpaper, geometric triangular facets in gradient blues, polygonal deer wolf fox, modern tech background",
+   "feat": ""
+  }
+ ],
+ "architecture-diagram": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "技术线框/蓝图",
+   "en": "wireframe render, blueprint, technical drawing, blue background, annotations, HUD",
+   "feat": "线框显示、蓝色或深色背景、尺寸标注与 HUD"
+  }
+ ],
+ "code-editor-glow": [
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "渐变背景灯",
+   "en": "gradient background, colored backdrop, studio gradient, color wash",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "颗粒叠加",
+   "en": "film grain, ISO 800, analog texture, fine grain, movie stock",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "程序化抽象 + 实验镜头 + 霓虹/渐变背景；高饱和强节奏",
+   "en": "abstract 3D art, procedural forms, colorful, generative, modern art",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "载体与画质",
+   "name": "35mm · 500T夜景推冲粗颗粒",
+   "en": "pushed 500T night, heavy film grain, gritty shadows, nocturnal",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  }
+ ],
+ "black-bar-chart": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "CAD 原生数据导入",
+   "en": "CAD import, STEP file, IGES, parasolid, industrial design",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Summilux-M 50mm f/1.4 ASPH（2004 版，8 片 5 组，含非球面 + 浮动，Leica 官网数据）",
+   "en": "Leica Summilux-M 50mm f/1.4 ASPH, 8 elements, Leica M, creamy melting bokeh, warm skin tones, subtle spherical glow, 3D pop, sharp at f/2, Leica M6, Kodak Portra 800, low light street, f/1.4, shallow depth of field",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Noctilux-M 75mm f/1.25 ASPH（9 片 6 组，2 非球面，Leica 官网数据）",
+   "en": "Leica Noctilux-M 75mm f/1.25 ASPH, portrait lens, flattering 75mm compression, warm skin tones, hazy glow wide open, extremely melting bokeh, sharp at f/2, Leica M, Pro 400H, f/1.4, golden hour, romantic portrait",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "数据可视化动态图表",
+   "en": "data visualization motion chart, data changes over time, bar chart race line flow heatmap, synchronized value labels, traceable source data",
+   "feat": ""
+  }
+ ],
+ "triple-candlestick": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  }
+ ],
+ "terminal-dashboard": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "密排信息墙 Information Wall",
+   "en": "Dense information wall poster, wall of tightly set small type covering most of the page, minimal hierarchy, monospaced typography, encyclopedia aesthetic, overwhelming data texture",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "早期数字点阵 Early Digital / Bitstream",
+   "en": "1980s early desktop publishing zine, dot matrix printer texture, pixelated bitmap fonts, laser print toner speckle, monochrome green or amber screen aesthetic, raw scan",
+   "feat": ""
+  }
+ ],
+ "heatmap-grid": [
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "CAD 原生数据导入",
+   "en": "CAD import, STEP file, IGES, parasolid, industrial design",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Summilux-M 50mm f/1.4 ASPH（2004 版，8 片 5 组，含非球面 + 浮动，Leica 官网数据）",
+   "en": "Leica Summilux-M 50mm f/1.4 ASPH, 8 elements, Leica M, creamy melting bokeh, warm skin tones, subtle spherical glow, 3D pop, sharp at f/2, Leica M6, Kodak Portra 800, low light street, f/1.4, shallow depth of field",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Noctilux-M 75mm f/1.25 ASPH（9 片 6 组，2 非球面，Leica 官网数据）",
+   "en": "Leica Noctilux-M 75mm f/1.25 ASPH, portrait lens, flattering 75mm compression, warm skin tones, hazy glow wide open, extremely melting bokeh, sharp at f/2, Leica M, Pro 400H, f/1.4, golden hour, romantic portrait",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "数据可视化动态图表",
+   "en": "data visualization motion chart, data changes over time, bar chart race line flow heatmap, synchronized value labels, traceable source data",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "数据报表/年报 Data Report & Annual Report",
+   "en": "corporate annual report open spread, CEO letter, financial highlights infographics, sustainability data charts, clean ESG reporting design",
+   "feat": ""
+  }
+ ],
+ "big-number-kpi": [
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "镜面抛光金属（铬/银）",
+   "en": "mirror chrome, polished silver, flawless reflections, high reflectivity",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实 + 长焦压缩/低角度 + 日落逆光或城市 HDRI；车漆清漆层、镀铬",
+   "en": "car render, automotive, vehicle design, sunset rim light, supercar",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/金属质感 + 特写 + 边缘光/霓虹；品牌标准色",
+   "en": "logo reveal, brand identity, metallic logo, typography 3D",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 微距 + 多柔光箱/AOI 摄影棚；金属高抛、宝石焦散",
+   "en": "jewelry render, watch macro, diamond caustics, gold polished, luxury",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "高调纯净 + 无畸变正视 + 均匀顶光；洁净塑料金属、无影",
+   "en": "medical device render, clinical, clean, hospital equipment, sterile",
+   "feat": ""
+  }
+ ],
+ "flow-world-map": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "早期数字点阵 Early Digital / Bitstream",
+   "en": "1980s early desktop publishing zine, dot matrix printer texture, pixelated bitmap fonts, laser print toner speckle, monochrome green or amber screen aesthetic, raw scan",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "CAD 原生数据导入",
+   "en": "CAD import, STEP file, IGES, parasolid, industrial design",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Summilux-M 50mm f/1.4 ASPH（2004 版，8 片 5 组，含非球面 + 浮动，Leica 官网数据）",
+   "en": "Leica Summilux-M 50mm f/1.4 ASPH, 8 elements, Leica M, creamy melting bokeh, warm skin tones, subtle spherical glow, 3D pop, sharp at f/2, Leica M6, Kodak Portra 800, low light street, f/1.4, shallow depth of field",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "镜头品牌与光学性格",
+   "name": "Leica Noctilux-M 75mm f/1.25 ASPH（9 片 6 组，2 非球面，Leica 官网数据）",
+   "en": "Leica Noctilux-M 75mm f/1.25 ASPH, portrait lens, flattering 75mm compression, warm skin tones, hazy glow wide open, extremely melting bokeh, sharp at f/2, Leica M, Pro 400H, f/1.4, golden hour, romantic portrait",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "数据可视化动态图表",
+   "en": "data visualization motion chart, data changes over time, bar chart race line flow heatmap, synchronized value labels, traceable source data",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "数据报表/年报 Data Report & Annual Report",
+   "en": "corporate annual report open spread, CEO letter, financial highlights infographics, sustainability data charts, clean ESG reporting design",
+   "feat": ""
+  }
+ ],
+ "report-cover-serif": [
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Futura（几何无衬线经典）",
+   "en": "Futura typographic poster, geometric sans-serif uppercase, red circle and triangle motifs, Bauhaus influence, clean white background",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Garamond / Adobe Garamond Pro（老式衬线标杆）",
+   "en": "Adobe Garamond Pro book interior page, old style serif body text, justified paragraphs, warm paper tone, fine literature typesetting",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "对称古典版心 Symmetric Classical Format",
+   "en": "Classical book page, symmetric centered type block, generous proportional margins, traditional serif typeface, formal balanced composition, fine press quality",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Gill Sans（英伦人文无衬线）",
+   "en": "Gill Sans book cover design, British humanist sans-serif title, warm cream background, classic literary feel, understated elegance",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Frutiger（导视人文无衬线）",
+   "en": "Frutiger airport wayfinding sign mockup, highly legible humanist sans-serif, directional arrows, blue white high contrast, calm authoritative",
+   "feat": ""
+  }
+ ],
+ "newspaper-front": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "双色专色印刷 Duotone Spot Color",
+   "en": "duotone music album cover, black and fluorescent pink halftone photo, bold spot color, indie record sleeve",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Times New Roman（报纸标准过渡体）",
+   "en": "Times New Roman newspaper front page layout, dense column text, traditional masthead, grayscale photojournalism, classic broadsheet",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "网点半调",
+   "en": "screentone halftone texture, printed halftone dots, manga print feel, rosette moire pattern, pop art",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "印刷与后道工艺",
+   "name": "胶印 Offset Lithography",
+   "en": "CMYK offset printing press sheet, color registration marks and crop bars, four color halftone dots magnified, commercial print shop",
+   "feat": ""
+  }
+ ],
+ "stipple-abyss": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "网点半调",
+   "en": "screentone halftone texture, printed halftone dots, manga print feel, rosette moire pattern, pop art",
+   "feat": ""
+  }
+ ],
+ "rocket-ink": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "少女漫画长线条",
+   "en": "shojo manga flowing line style, long flowing multi-strand hair, slender limbs, ornate clustered eyelashes, fine hatching, CLAMP, Naoko Takeuchi",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "圆润橡皮管（Rubber Hose）",
+   "en": "rubber hose animation style, jointless hose-like limbs, white gloves, pie eyes, 1920s-30s, Fleischer Studios, early Disney Mickey, bouncy walk cycle",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "硬光聚光灯+挡叶片",
+   "en": "hard spotlight, barn doors, focused beam, cucoloris shadows, theatrical",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "圆润卡通",
+   "en": "round cartoon character design, sphere and cylinder geometric simplification, no sharp angles, friendly and cute, modern Disney TVA kids show",
+   "feat": ""
+  }
+ ],
+ "dore-engraving": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "印刷与后道工艺",
+   "name": "铜版纸 Coated Gloss Art Paper",
+   "en": "coated gloss art paper sample swatch book, shiny reflective sheets showing vivid CMYK prints, commercial printing paper selection",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  }
+ ],
+ "woodcut-bold": [
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "高对比黑白木刻",
+   "en": "high-contrast black-white woodcut texture, knife marks and wood grain, stark black and white, woodblock print, intaglio and relief",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "油画肌理刮刀",
+   "en": "oil paint palette-knife texture, heavy impasto knife marks, paint strings,刮刀 scratching white ground, Van Gogh animated style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "黑白高反差（Noir High Contrast）",
+   "en": "black and white high contrast noir, crushed blacks, hard bright highlights, dramatic shadows, film grain",
+   "feat": ""
+  }
+ ],
+ "halftone-noir": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "黑色电影（Film Noir, 1940s–50s）",
+   "en": "1940s film noir, high contrast black and white, venetian blind shadows, rain slick streets, cynical detective",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "硬光聚光灯+挡叶片",
+   "en": "hard spotlight, barn doors, focused beam, cucoloris shadows, theatrical",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "网点半调",
+   "en": "screentone halftone texture, printed halftone dots, manga print feel, rosette moire pattern, pop art",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "黑色电影霓虹 Noir Neon",
+   "en": "noir neon alley scene poster, deep black shadows with glowing pink and cyan neon signs, wet pavement reflections, rain night, cinematic",
+   "feat": ""
+  }
+ ],
+ "etching-forest": [
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "磨砂塑料（雾面）",
+   "en": "frosted plastic, diffused backlight, foggy surface, soft glow through",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "烟雾/体积介质",
+   "en": "volumetric smoke, god rays, tyndall effect, atmospheric haze, fog",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "黑白高反差（Noir High Contrast）",
+   "en": "black and white high contrast noir, crushed blacks, hard bright highlights, dramatic shadows, film grain",
+   "feat": ""
+  }
+ ],
+ "mezzotint-portrait": [
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "伦勃朗光",
+   "en": "rembrandt lighting, triangle light, dramatic portrait, painterly light",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "印刷与后道工艺",
+   "name": "铜版纸 Coated Gloss Art Paper",
+   "en": "coated gloss art paper sample swatch book, shiny reflective sheets showing vivid CMYK prints, commercial printing paper selection",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实或三渲二 + 85mm 人像 + 三点布光/伦勃朗；皮肤 SSS、毛发 groom",
+   "en": "character render, portrait, realistic human, stylized character, hero",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "伦勃朗三点布光",
+   "en": "Rembrandt three-point lighting, triangle cheek light, classic portrait",
+   "feat": ""
+  }
+ ],
+ "scratchboard": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "纹样与底纹 Patterns & Textures",
+   "en": "seamless geometric pattern texture, four-directional repeat, brand decorative motif, wrapping paper or fabric print application --tile",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "中心对称构图（韦斯·安德森式）",
+   "en": "centered symmetrical composition, Wes Anderson style, mirror balance, dead center",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "黑白高反差（Noir High Contrast）",
+   "en": "black and white high contrast noir, crushed blacks, hard bright highlights, dramatic shadows, film grain",
+   "feat": ""
+  }
+ ],
+ "risograph-duotone": [
+  {
+   "lib": "平面设计",
+   "axis": "印刷与后道工艺",
+   "name": "孔版/理想印刷 Risograph",
+   "en": "risograph art poster, grainy soy ink layers, slight color misregistration, limited palette, handmade zine aesthetic",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "低保真拼贴 Lo-fi Collage / Zine",
+   "en": "DIY punk zine cover, photocopied grain texture, scotch tape holding cut-out images, torn paper edges, hand-drawn marker arrows and circles, risograph two-color misregister, raw",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "杂志 Magazine Editorial",
+   "en": "luxury fashion magazine spread, full-bleed image across gutter, large serif headline, layered captions, editorial typography",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "网点半调",
+   "en": "screentone halftone texture, printed halftone dots, manga print feel, rosette moire pattern, pop art",
+   "feat": ""
+  }
+ ],
+ "linocut-nature": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "高宽容度HDR自然主义",
+   "en": "HDR naturalistic, neutral highlights, gentle roll-off, full shadow detail, true-to-life",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "油画肌理刮刀",
+   "en": "oil paint palette-knife texture, heavy impasto knife marks, paint strings,刮刀 scratching white ground, Van Gogh animated style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "载体与画质",
+   "name": "ARRI Alexa · 自然肤色科学",
+   "en": "shot on ARRI Alexa, natural skin tones, creamy highlights, cinematic digital",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "自然光写实",
+   "en": "natural available light, realistic daylight, no visible film lighting",
+   "feat": ""
+  }
+ ],
+ "ink-sumi-zen": [
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "水墨流动动画",
+   "en": "ink wash flow animation, ink diffusing in water, rice-paper bleed, five ink tones, calligraphic negative space, Shanghai Film Studio",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "水墨浓淡晕染",
+   "en": "ink wash tonal gradation, five ink tones burnt-thick-heavy-light-clear, rice-paper bleed, feibai flying-white, negative space, Shanghai Film Studio",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "留白负空间",
+   "en": "negative space emptiness, large empty or solid-color area, off-center small subject, Eastern minimalism, breathing room, copy space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "水墨飞白 Ink Wash & Brush Calligraphy",
+   "en": "chinese ink wash landscape painting, mountains in mist with bold brush strokes and blank space, traditional scroll aesthetic, zen calm",
+   "feat": ""
+  }
+ ],
+ "cosmic-deity": [
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "中心对称构图（韦斯·安德森式）",
+   "en": "centered symmetrical composition, Wes Anderson style, mirror balance, dead center",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "载体与画质",
+   "name": "IMAX · 深景深史诗构图",
+   "en": "IMAX epic deep focus, crystal clear foreground background, grand landscape",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "镜面反射对称构图",
+   "en": "mirror reflection symmetry, dual image, psychological split",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "黑白高反差（Noir High Contrast）",
+   "en": "black and white high contrast noir, crushed blacks, hard bright highlights, dramatic shadows, film grain",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "韦斯·安德森对称粉彩",
+   "en": "Wes Anderson symmetrical pastels, centered composition, pastel palette, storybook flat",
+   "feat": ""
+  }
+ ],
+ "retro-space-age": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "九十年代早期 CG 复古",
+   "en": "90s CGI, retro computer graphics, PS1 era, Gouraud shading, low res textures, VHS",
+   "feat": "低精度模型、硬边 Gouraud 着色、压缩抖动的仿旧纹理"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "未来主义 Futurism",
+   "en": "Futurist typographic poster, words in freedom scattered across canvas, explosive onomatopoeia text of various sizes, diagonal movement, machinery noise, multiple perspectives simultaneously, aggressive",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "印刷与后道工艺",
+   "name": "丝网印刷 Screen Printing",
+   "en": "serigraphy screen print poster, thick vibrant ink layers, halftone dot texture, hand-pulled prints, gig poster aesthetic",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "装饰艺术运动 Art Deco",
+   "en": "Art Deco poster 1920s, sunburst rays background, zigzag geometric border, gold foil accents, stylized fountain figure, elegant tall sans serif, luxurious, symmetrical",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "复古褪色（Vintage Fade）",
+   "en": "vintage faded film, lifted blacks, milky highlights, aged color shift, film dust scratches",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "复古镜头低反差眩光",
+   "en": "vintage lens low contrast flare, hazy backlight, washed-out colors, retro",
+   "feat": ""
+  }
+ ],
+ "cyberpunk-neon": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "赛博朋克霓虹",
+   "en": "cyberpunk, neon lights, wet streets, purple cyan orange, holographic, futuristic city",
+   "feat": "紫/青/橙高饱和、潮湿反射街景、霓虹灯管与全息"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "霓虹自发光",
+   "en": "neon lights, glowing tubes, cyberpunk lighting, self-lit signage",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "透过介质拍摄（雨窗/纱帘/蒸汽）",
+   "en": "shooting through rain-streaked window, sheer curtain diffusion, steam fog",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "赛博朋克/抽象 + 任意风格镜头 + 霓虹自发光明暗对比",
+   "en": "NFT artwork, 3D collectible, crypto art, digital art, 1/1",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "程序化抽象 + 实验镜头 + 霓虹/渐变背景；高饱和强节奏",
+   "en": "abstract 3D art, procedural forms, colorful, generative, modern art",
+   "feat": ""
+  }
+ ],
+ "solarpunk-utopia": [
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "高宽容度HDR自然主义",
+   "en": "HDR naturalistic, neutral highlights, gentle roll-off, full shadow detail, true-to-life",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "高调纯净",
+   "en": "high key, bright and airy, clean, minimal shadows, medical tech, sterile",
+   "feat": "明亮均匀、几乎无阴影、洁净医疗/科技气质"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "载体与画质",
+   "name": "ARRI Alexa · 自然肤色科学",
+   "en": "shot on ARRI Alexa, natural skin tones, creamy highlights, cinematic digital",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "高调纯白",
+   "en": "high key, pure white cyclorama, clean studio, bright",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  }
+ ],
+ "monolith-desert": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "建筑表现风 + 超广角/人视点 + 日光模拟（黄金时刻）；配景人车树",
+   "en": "architectural exterior, building render, golden hour, entourage people",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "超广角",
+   "en": "ultra wide angle, 14mm, dramatic perspective, expansive view",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "建筑表现风 + 超广角 + HDRI 日光与人工光混合；白平衡统一",
+   "en": "interior design render, architectural interior, warm ambient light",
+   "feat": ""
+  }
+ ],
+ "vaporwave-dream": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "合成器浪潮/蒸汽波",
+   "en": "synthwave, retrowave, magenta cyan gradient sky, grid horizon, sunset, palm trees, 80s",
+   "feat": "洋红-青色渐变天空、发光网格地平线、落日棕榈"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "蒸汽波 Vaporwave",
+   "en": "Vaporwave aesthetic artwork, pastel pink cyan purple sunset gradient, classical marble greek statue head, palm tree silhouette, japanese katakana text floating, retro computer window, VHS glitch, dreamy",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "Y2K 拟态 Y2K Aesthetics",
+   "en": "Y2K aesthetic poster, liquid chrome metallic blobs, holographic gradient background, translucent frosted plastic panels, windows 95 interface elements, futuristic optimistic, airbrushed, silver pink blue",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "渐变背景灯",
+   "en": "gradient background, colored backdrop, studio gradient, color wash",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "程序化抽象 + 实验镜头 + 霓虹/渐变背景；高饱和强节奏",
+   "en": "abstract 3D art, procedural forms, colorful, generative, modern art",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍 + 无畸变正视 + 高调纯白/渐变背景；无干扰物",
+   "en": "e-commerce hero image, amazon main image, white background product",
+   "feat": ""
+  }
+ ],
+ "newyorker-watercolor": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "水彩插画风",
+   "en": "watercolor illustration, paper texture, pigment bloom, wet-on-wet, soft edges, hand drawn",
+   "feat": "水渍晕染、纸纹、透明叠色、柔边"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "有限色扁平插画调色盘 Limited Flat Palette",
+   "en": "flat illustration set with limited 5-color palette, isometric office scenes, clean vector, SaaS onboarding illustrations, consistent branding",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "水彩湿画法逐帧",
+   "en": "watercolor wet-in-wet frame-by-frame animation, color bleeding, bloom edges, transparent glazing, wet diffusion, picture book texture",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "插画主导 Illustration-Led",
+   "en": "flat vector illustration website hero, diverse characters collaborating around giant laptop, bright brand colors, SaaS onboarding",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Didot / HTF Didot（时尚杂志现代体）",
+   "en": "Didot perfume advertisement, French modern serif headline, minimalist glass bottle, marble background, high fashion editorial",
+   "feat": ""
+  }
+ ],
+ "excalidraw-doodle": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "粗野涂鸦",
+   "en": "crude doodle style, shaky hand-drawn lines, unbalanced proportions, childlike doodle feel, Don Hertzfeldt stick figure, existential anxiety humor",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "有限色扁平插画调色盘 Limited Flat Palette",
+   "en": "flat illustration set with limited 5-color palette, isometric office scenes, clean vector, SaaS onboarding illustrations, consistent branding",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "手绘赛璐璐",
+   "en": "hand-painted cel animation on transparent celluloid, flat color fills, crisp outlines, vintage 1930s-90s cartoon, multiplane camera",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "手绘涂鸦 Doodle & Hand-Drawn",
+   "en": "hand-drawn doodle arrows circles underlines on meeting notes, casual sketch annotations, whiteboard brainstorm vibe, approachable",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "炭笔手绘动画",
+   "en": "charcoal drawn animation, bold black charcoal lines, smudged grayscale, expressionist, high contrast black and white, William Kentridge erasure method",
+   "feat": ""
+  }
+ ],
+ "handdrawn-infographic": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "新闻信息图动画",
+   "en": "news infographic animation, news data/process explainer, fast turnaround, 15-60 seconds, big key numbers, source footnote, vertical social-first",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "手绘赛璐璐",
+   "en": "hand-painted cel animation on transparent celluloid, flat color fills, crisp outlines, vintage 1930s-90s cartoon, multiplane camera",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "信息图 Infographic",
+   "en": "vertical infographic about climate change facts, clear headline, icon-based statistics, timeline chart, sources at bottom, educational shareable",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "冷蓝 · 月光单色染色版",
+   "en": "monochrome blue moonlight, silver-blue highlights, steel blue, near monochromatic, ethereal night",
+   "feat": ""
+  }
+ ],
+ "ligne-claire": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "少女漫画长线条",
+   "en": "shojo manga flowing line style, long flowing multi-strand hair, slender limbs, ornate clustered eyelashes, fine hatching, CLAMP, Naoko Takeuchi",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "扁平图标化",
+   "en": "flat iconographic character design, geometric simplification, two-color limited palette, app-icon feel, Material Design motion guidelines",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "圆润橡皮管（Rubber Hose）",
+   "en": "rubber hose animation style, jointless hose-like limbs, white gloves, pie eyes, 1920s-30s, Fleischer Studios, early Disney Mickey, bouncy walk cycle",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "扁平阴影造型",
+   "en": "flat shadow-styled design, fixed-angle long shadow 45 degrees, two-tone layering, no gradient, Google Material illustration",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "圆润卡通",
+   "en": "round cartoon character design, sphere and cylinder geometric simplification, no sharp angles, friendly and cute, modern Disney TVA kids show",
+   "feat": ""
+  }
+ ],
+ "stick-comic": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "少女漫画长线条",
+   "en": "shojo manga flowing line style, long flowing multi-strand hair, slender limbs, ornate clustered eyelashes, fine hatching, CLAMP, Naoko Takeuchi",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "等距小场景/极简 + 正交相机 + 单柔光箱；圆润倒角柔和投影",
+   "en": "3D icon, isometric icon, UI icon, app glyph, cute 3D",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/粘土 + 正交正视 + 单侧柔光；识别度高、少细节",
+   "en": "app icon, 3D glyph, cute 3D icon, simple, app store",
+   "feat": ""
+  }
+ ],
+ "pixel-isometric": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "像素化三维",
+   "en": "pixelated 3D, voxel surface, 8-bit colors, retro game assets, Minecraft style",
+   "feat": "三维形态但表面体素化/像素化、8-bit 配色"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "早期数字点阵 Early Digital / Bitstream",
+   "en": "1980s early desktop publishing zine, dot matrix printer texture, pixelated bitmap fonts, laser print toner speckle, monochrome green or amber screen aesthetic, raw scan",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "实时游戏引擎风格",
+   "en": "Unreal Engine 5 render, real-time, Lumen, Nanite, game asset showcase, screen space",
+   "feat": "屏幕空间效果、风格化后处理、面向性能的细节层级"
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "像素动画",
+   "en": "pixel art animation, low-res pixel grid, limited color palette, dithering transitions, retro game sprite, 16-bit SNES GBA style",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实/写实游戏风 + 广角 + 日光+体积雾；大气透视层次",
+   "en": "environment design, landscape, epic scenery, atmospheric fog, vista",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "游戏像素精灵序列",
+   "en": "game pixel sprite sheet sequence, character action sprites, fixed canvas 32x32, frame texture atlas, pivot aligned at feet, attack hit directions",
+   "feat": ""
+  }
+ ],
+ "gouache-storybook": [
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "儿童绘本翻页动画",
+   "en": "children's picture book flipbook animation, digitized picture book, realistic page-turn or swipe, child voice narration, tap-triggered hotspots, parent-child co-reading",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "水彩插画风",
+   "en": "watercolor illustration, paper texture, pigment bloom, wet-on-wet, soft edges, hand drawn",
+   "feat": "水渍晕染、纸纹、透明叠色、柔边"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "有限色扁平插画调色盘 Limited Flat Palette",
+   "en": "flat illustration set with limited 5-color palette, isometric office scenes, clean vector, SaaS onboarding illustrations, consistent branding",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "插画主导 Illustration-Led",
+   "en": "flat vector illustration website hero, diverse characters collaborating around giant laptop, bright brand colors, SaaS onboarding",
+   "feat": ""
+  }
+ ],
+ "sketchnote-page": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "粗野涂鸦",
+   "en": "crude doodle style, shaky hand-drawn lines, unbalanced proportions, childlike doodle feel, Don Hertzfeldt stick figure, existential anxiety humor",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "手绘赛璐璐",
+   "en": "hand-painted cel animation on transparent celluloid, flat color fills, crisp outlines, vintage 1930s-90s cartoon, multiplane camera",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "手绘涂鸦 Doodle & Hand-Drawn",
+   "en": "hand-drawn doodle arrows circles underlines on meeting notes, casual sketch annotations, whiteboard brainstorm vibe, approachable",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "炭笔手绘动画",
+   "en": "charcoal drawn animation, bold black charcoal lines, smudged grayscale, expressionist, high contrast black and white, William Kentridge erasure method",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "吉卜力工作室全手绘体系",
+   "en": "Studio Ghibli style, full hand-drawn animation, detailed natural phenomena, realistic proportion characters, thick watercolor backgrounds, Hayao Miyazaki, Isao Takahata, Kazuo Oga background art",
+   "feat": ""
+  }
+ ],
+ "comic-panels": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "少女漫画长线条",
+   "en": "shojo manga flowing line style, long flowing multi-strand hair, slender limbs, ornate clustered eyelashes, fine hatching, CLAMP, Naoko Takeuchi",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "漫画网点化造型",
+   "en": "manga screentone-styled design, halftone dot fills, hatching shadows, speed line backgrounds, speech balloons, onomatopoeia",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "高饱和 · 波普糖果色版",
+   "en": "pop art candy colors, pastel pink mint yellow, hyper saturated, Wes Anderson playful",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "网点半调",
+   "en": "screentone halftone texture, printed halftone dots, manga print feel, rosette moire pattern, pop art",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "高饱和波普 Pop Art Saturated",
+   "en": "pop art comic panel poster, bold primary red yellow blue flat colors, thick black outlines, Ben-Day dot shading, Roy Lichtenstein inspired",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "半调网点 Halftone",
+   "en": "vintage concert poster with halftone dot portrait shading, CMYK rosette pattern magnified, retro gig flyer aesthetic",
+   "feat": ""
+  }
+ ],
+ "ukiyoe-wave": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "浮世绘版画风",
+   "en": "ukiyo-e, Japanese woodblock print, flat color fields, contour lines, stylized waves, ukiyo",
+   "feat": "平涂色块、墨线轮廓、程式化云水纹样"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "日本静观长镜",
+   "en": "Japanese contemplative long take, static camera, natural sound, empty frames, Ozu small actions",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "版画质感 Print Texture（木刻/石版）",
+   "en": "woodcut style music festival poster, carved wood texture bold simplified figures, letterpress text, rustic handmade craft fair",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "日本战后写实主义/VIVO Postwar Japanese photography",
+   "en": "postwar Japanese photography 1950s, VIVO collective 1959, black and white, high contrast, medium grain, subjective documentary, Eikoh Hosoe Shomei Tomatsu, occupied Japan anxiety",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "日本电视动画量产管线（虫制作体系）",
+   "en": "Japanese TV anime mass-production pipeline, Mushi Production system, limited animation on threes, static holds with camera moves, mouth loops, bank shot reuse",
+   "feat": ""
+  }
+ ],
+ "apple-macro": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍写实 + 无畸变正视或 3/4 视角 + 三点布光/高调纯白；材质如实还原",
+   "en": "product visualization, studio render, hero shot, e-commerce, packaging",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "镜面抛光金属（铬/银）",
+   "en": "mirror chrome, polished silver, flawless reflections, high reflectivity",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "微距抽象",
+   "en": "macro abstract, extreme close-up, surface texture study, microscopic details",
+   "feat": "极端特写、表面微观结构成为画面主体"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "边缘轮廓光",
+   "en": "rim light, edge light, silhouette, kicker, backlight",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "无畸变产品正视",
+   "en": "product front view, zero distortion, telecentric look, orthogonal shot",
+   "feat": ""
+  }
+ ],
+ "tiltshift-diorama": [
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "移轴微缩",
+   "en": "tilt shift, miniature faking, selective focus plane, toy town",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "拟真微缩模型",
+   "en": "tilt shift, miniature faking, diorama, toy photography, macro selective focus",
+   "feat": "移轴焦平面倾斜、上下虚化、高饱和高对比玩具感"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "微距抽象",
+   "en": "macro abstract, extreme close-up, surface texture study, microscopic details",
+   "feat": "极端特写、表面微观结构成为画面主体"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "浅景深微距",
+   "en": "macro 100mm f/2.8, extreme close-up, shallow depth of field, focus plane",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "移轴/倾斜焦平面（Tilt-Shift）",
+   "en": "tilt-shift selective focus, diagonal plane of focus, miniature effect",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "高调纯净/极简 + 微距 + 蝴蝶光/夹光；玻璃霜瓶、水珠",
+   "en": "beauty product, cosmetics render, skincare bottle, water droplets",
+   "feat": ""
+  }
+ ],
+ "clay-voxel-character": [
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "定格黏土（Claymation）",
+   "en": "claymation stop-motion, Plasticine characters, fingerprint and tool marks, soft squishy deformation, matte finish, Aardman comedy timing",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "体素",
+   "en": "voxel art, cubic blocks, MagicaVoxel style, pixel 3D, blocky, minecraft",
+   "feat": "立方体单元堆叠、阶梯状边缘、MagicaVoxel 美学"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "Aardman 黏土喜剧节奏",
+   "en": "Aardman clay comedy, visible fingerprint clay texture, British deadpan humor, exaggerated lip-sync, wool sweater knit texture, Nick Park, Wallace and Gromit",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "体素化建模雕刻",
+   "en": "voxel modeling, MagicaVoxel, blocky voxels, pixel art 3D",
+   "feat": ""
+  }
+ ],
+ "glass-3d-icon": [
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "高透明钠钙玻璃",
+   "en": "clear soda-lime glass, transparent, clean refractions, window glass",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 微距 + 多柔光箱/AOI 摄影棚；金属高抛、宝石焦散",
+   "en": "jewelry render, watch macro, diamond caustics, gold polished, luxury",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "游泳池池底折射光斑",
+   "en": "pool caustics caustic light patterns, water ripple projection on face, summer cool",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "内文版式 Book Interior Typesetting",
+   "en": "novel book interior spread, classic serif body text justified, chapter opener with drop cap, elegant margins",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "硼硅/铅晶质玻璃",
+   "en": "crystal glass, cut glass, prismatic dispersion, fire, lead crystal",
+   "feat": ""
+  }
+ ],
+ "isometric-room": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "卡通渲染",
+   "en": "cel shaded, toon shader, flat colors, bold outlines, stepped shadows, cartoon",
+   "feat": "扁平色块、阴影阶跃明确、黑色轮廓描边"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "室内表现 + 人视 35mm + 窗口柔光；木材/织物材质真实",
+   "en": "furniture render, sofa, interior staging, natural window light",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "室内夜戏台灯",
+   "en": "indoor night scene table lamp, warm pool of light, surrounding darkness, intimate conversation",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "三渲二",
+   "en": "anime style, cel animation, Studio Ghibli aesthetic, expressive line art, manga",
+   "feat": "日式动画赛璐珞、描边随透视变化、眼瞳多层高光"
+  }
+ ],
+ "blindbox-figure": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍写实 + 无畸变正视或 3/4 视角 + 三点布光/高调纯白；材质如实还原",
+   "en": "product visualization, studio render, hero shot, e-commerce, packaging",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "卡通渲染",
+   "en": "cel shaded, toon shader, flat colors, bold outlines, stepped shadows, cartoon",
+   "feat": "扁平色块、阴影阶跃明确、黑色轮廓描边"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "无畸变产品正视",
+   "en": "product front view, zero distortion, telecentric look, orthogonal shot",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍 + 无畸变正视 + 高调纯白/渐变背景；无干扰物",
+   "en": "e-commerce hero image, amazon main image, white background product",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 45° 3/4 视角 + 柔光箱；可替换标签贴图",
+   "en": "packaging mockup, box mockup, label design, product shot",
+   "feat": ""
+  }
+ ],
+ "papercraft-layers": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "纸雕剪纸风",
+   "en": "paper craft, paper cutout, layered paper, soft contact shadows, handmade, kirigami",
+   "feat": "分层纸张、剪切边缘、柔和接触投影"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实/写实游戏风 + 广角 + 日光+体积雾；大气透视层次",
+   "en": "environment design, landscape, epic scenery, atmospheric fog, vista",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "剪纸动画",
+   "en": "paper cut-out stop-motion, articulated paper puppets, visible rivet joints, hard edges, paper fiber texture, folk art style",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "多层玻璃台复合（剪纸＋景深）",
+   "en": "multiplane glass-table paper cut-out animation, layered depth of field, parallax movement, glass surface reflection, Lotte Reiniger silhouette, multiplane camera",
+   "feat": ""
+  }
+ ],
+ "brick-build": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "微距抽象",
+   "en": "macro abstract, extreme close-up, surface texture study, microscopic details",
+   "feat": "极端特写、表面微观结构成为画面主体"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "哑光塑料（ABS/PP）",
+   "en": "matte plastic, soft touch coating, non-reflective, ABS",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "浅景深微距",
+   "en": "macro 100mm f/2.8, extreme close-up, shallow depth of field, focus plane",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "高调纯净/极简 + 微距 + 蝴蝶光/夹光；玻璃霜瓶、水珠",
+   "en": "beauty product, cosmetics render, skincare bottle, water droplets",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "亮面塑料（ABS/亚克力）",
+   "en": "glossy ABS plastic, shiny toy surface, acrylic, injection molding",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "景深合成",
+   "en": "focus stack, all-in-focus macro, composite sharpness, depth blend",
+   "feat": ""
+  }
+ ],
+ "knolling-flatlay": [
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "高角度俯拍（渺小感）",
+   "en": "high angle looking down, small vulnerable figure, bird's eye feel",
+   "feat": ""
+  },
+  {
+   "lib": "镜头角度",
+   "axis": "静态摄影题材专用角度",
+   "name": "顶视/平铺/flat lay",
+   "en": "Flat lay, overhead, top-down, 90-degree",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "俯拍上帝视角",
+   "en": "overhead god's-eye view, straight down or above 60 degrees, characters small, environment dominates frame, omniscient perspective, layout showcase",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "无畸变产品正视",
+   "en": "product front view, zero distortion, telecentric look, orthogonal shot",
+   "feat": ""
+  }
+ ],
+ "liquid-chrome": [
+  {
+   "lib": "三维渲染",
+   "axis": "材质大类 Materials",
+   "name": "镜面抛光金属（铬/银）",
+   "en": "mirror chrome, polished silver, flawless reflections, high reflectivity",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/金属质感 + 特写 + 边缘光/霓虹；品牌标准色",
+   "en": "logo reveal, brand identity, metallic logo, typography 3D",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "Y2K 拟态 Y2K Aesthetics",
+   "en": "Y2K aesthetic poster, liquid chrome metallic blobs, holographic gradient background, translucent frosted plastic panels, windows 95 interface elements, futuristic optimistic, airbrushed, silver pink blue",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实 + 长焦压缩/低角度 + 日落逆光或城市 HDRI；车漆清漆层、镀铬",
+   "en": "car render, automotive, vehicle design, sunset rim light, supercar",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 微距 + 多柔光箱/AOI 摄影棚；金属高抛、宝石焦散",
+   "en": "jewelry render, watch macro, diamond caustics, gold polished, luxury",
+   "feat": ""
+  }
+ ],
+ "kinfolk-serif": [
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Futura（几何无衬线经典）",
+   "en": "Futura typographic poster, geometric sans-serif uppercase, red circle and triangle motifs, Bauhaus influence, clean white background",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "自然光写实",
+   "en": "natural available light, realistic daylight, no visible film lighting",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Gill Sans（英伦人文无衬线）",
+   "en": "Gill Sans book cover design, British humanist sans-serif title, warm cream background, classic literary feel, understated elegance",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Didot / HTF Didot（时尚杂志现代体）",
+   "en": "Didot perfume advertisement, French modern serif headline, minimalist glass bottle, marble background, high fashion editorial",
+   "feat": ""
+  }
+ ],
+ "swiss-poster": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "瑞士国际主义 Swiss International Style",
+   "en": "Swiss Style poster design, mathematical grid layout, asymmetric balance, Helvetica typography flush left, objective black and white photography, generous white space, minimal",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Helvetica Neue / Neue Haas Grotesk（新 grotesque 标杆）",
+   "en": "Helvetica Neue typography poster, clean neutral sans-serif, grid layout, black on white, Swiss Style minimalism, corporate identity",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Akzidenz-Grotesk（瑞士风格源头）",
+   "en": "Akzidenz-Grotesk poster 1950s style, slightly irregular grotesque sans, muted vintage palette, offset print texture, mid-century modern",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Nimbus Sans（Helvetica 度量兼容替代品）",
+   "en": "Nimbus Sans document typesetting, clean report page, metric compatible with Helvetica, professional typeset body text, gray and black",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "栏式网格 Column Grid",
+   "en": "Editorial magazine page, six-column grid, body text flowing in columns, wide gutters, pull quotes spanning two columns, clean serif typography, structured",
+   "feat": ""
+  }
+ ],
+ "penguin-classic": [
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Caslon / Sabon（传统书籍正文衬线）",
+   "en": "Caslon classic novel title page, traditional old style serif, centered imprints, cream laid paper, letterpress impression",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "九十年代早期 CG 复古",
+   "en": "90s CGI, retro computer graphics, PS1 era, Gouraud shading, low res textures, VHS",
+   "feat": "低精度模型、硬边 Gouraud 着色、压缩抖动的仿旧纹理"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "对称古典版心 Symmetric Classical Format",
+   "en": "Classical book page, symmetric centered type block, generous proportional margins, traditional serif typeface, formal balanced composition, fine press quality",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Plantin / Bulmer（过渡时期书籍体）",
+   "en": "Plantin hardcover novel dust jacket, transitional serif subtitle, textured cloth binding, restrained color blocking, literary fiction",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "复古褪色（Vintage Fade）",
+   "en": "vintage faded film, lifted blacks, milky highlights, aged color shift, film dust scratches",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "书籍封面 Book Cover",
+   "en": "book cover mockup on wooden shelf, bold title author name visible from far, atmospheric genre art, series branding consistent",
+   "feat": ""
+  }
+ ],
+ "bauhaus-geometry": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "包豪斯 Bauhaus",
+   "en": "Bauhaus graphic design, geometric sans serif uppercase headline, asymmetric layout, red yellow blue accent blocks, photographic collage, white background, grid based composition",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "构成主义摄影 Constructivist photography",
+   "en": "constructivist photography 1920s Soviet, extreme high or low angle, diagonal composition, geometric abstraction, high contrast black and white, photomontage, wide angle perspective distortion, revolutionary propaganda",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "几何节点",
+   "en": "geometry nodes, procedural modeling, instancing, modifier stack",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "构成主义 Constructivism",
+   "en": "Russian Constructivism poster, dynamic diagonal layout, bold red black and white, photo montage, heavy sans-serif typography at angle, industrial smokestacks, revolutionary slogan",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "美国 CalArts / Frederator 极简几何风",
+   "en": "CalArts-influenced North American TV minimalism, rounded-rectangle body shapes, thick outline, minimal dot eyes slit mouth, flat bright colors, Adventure Time, Pendleton Ward",
+   "feat": ""
+  }
+ ],
+ "magazine-cover": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "伦勃朗光",
+   "en": "rembrandt lighting, triangle light, dramatic portrait, painterly light",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Didot / HTF Didot（时尚杂志现代体）",
+   "en": "Didot perfume advertisement, French modern serif headline, minimalist glass bottle, marble background, high fashion editorial",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实或三渲二 + 85mm 人像 + 三点布光/伦勃朗；皮肤 SSS、毛发 groom",
+   "en": "character render, portrait, realistic human, stylized character, hero",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "杂志 Magazine Editorial",
+   "en": "luxury fashion magazine spread, full-bleed image across gutter, large serif headline, layered captions, editorial typography",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "伦勃朗三点布光",
+   "en": "Rembrandt three-point lighting, triangle cheek light, classic portrait",
+   "feat": ""
+  }
+ ],
+ "type-only": [
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Helvetica Neue / Neue Haas Grotesk（新 grotesque 标杆）",
+   "en": "Helvetica Neue typography poster, clean neutral sans-serif, grid layout, black on white, Swiss Style minimalism, corporate identity",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Univers（同一家族的多字重体系）",
+   "en": "Univers type specimen sheet, numbered weight system display, clean modernist sans-serif family chart, neutral gray background, typographic catalog",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "栏式网格 Column Grid",
+   "en": "Editorial magazine page, six-column grid, body text flowing in columns, wide gutters, pull quotes spanning two columns, clean serif typography, structured",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Akzidenz-Grotesk（瑞士风格源头）",
+   "en": "Akzidenz-Grotesk poster 1950s style, slightly irregular grotesque sans, muted vintage palette, offset print texture, mid-century modern",
+   "feat": ""
+  }
+ ],
+ "japanese-ma": [
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "日本静观长镜",
+   "en": "Japanese contemplative long take, static camera, natural sound, empty frames, Ozu small actions",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "极简主义",
+   "en": "minimalist, clean composition, negative space, monochrome palette, simple geometry",
+   "feat": "大面积留白、单一主体、低饱和单色或双色体系"
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "留白负空间",
+   "en": "negative space emptiness, large empty or solid-color area, off-center small subject, Eastern minimalism, breathing room, copy space",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "日本战后写实主义/VIVO Postwar Japanese photography",
+   "en": "postwar Japanese photography 1950s, VIVO collective 1959, black and white, high contrast, medium grain, subjective documentary, Eikoh Hosoe Shomei Tomatsu, occupied Japan anxiety",
+   "feat": ""
+  }
+ ],
+ "neo-brutalism": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "新粗野主义网页 Neo-Brutalism Web",
+   "en": "Neo-brutalist website landing page, default Times New Roman or Arial, chunky black outlines, high contrast clashing colors, hard drop shadows, brutal raw layout, anti-design, Gumroad style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "微软雅黑 Microsoft YaHei（Windows 默认网页黑体）",
+   "en": "微软雅黑 Chinese news website screenshot, clean readable web body text, portal homepage layout, red navigation bar",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "网页布局 Web Layout（官网/落地页）",
+   "en": "modern SaaS website homepage screenshot, clean hero with headline subheadline CTA button, feature grid below, testimonials, light theme",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "网页横幅/Banner Web Banner",
+   "en": "Google display banner ad set, leaderboard rectangle skyscraper sizes, promo message with CTA, animated gif or HTML5, e-commerce sale",
+   "feat": ""
+  }
+ ],
+ "dada-collage": [
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "达达主义 Dada",
+   "en": "Dadaist photomontage collage, cut newspaper clippings, absurd juxtaposition of machine and body parts, rough pasted edges, typed text fragments, chaotic, black white with red stamp",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "低保真拼贴 Lo-fi Collage / Zine",
+   "en": "DIY punk zine cover, photocopied grain texture, scotch tape holding cut-out images, torn paper edges, hand-drawn marker arrows and circles, risograph two-color misregister, raw",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "杂志跨页 Magazine Spread",
+   "en": "Luxury magazine double page spread, full-bleed hero image spanning both pages across gutter, kicker text top left, large serif headline, elegant fashion editorial look",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "拼贴 Collage",
+   "en": "digital collage portrait with cut paper textures and vintage photo elements, layered surreal composition, magazine editorial style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "杂志 Magazine Editorial",
+   "en": "luxury fashion magazine spread, full-bleed image across gutter, large serif headline, layered captions, editorial typography",
+   "feat": ""
+  }
+ ],
+ "constructivist": [
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "构成主义摄影 Constructivist photography",
+   "en": "constructivist photography 1920s Soviet, extreme high or low angle, diagonal composition, geometric abstraction, high contrast black and white, photomontage, wide angle perspective distortion, revolutionary propaganda",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "苏维埃宣传风 Soviet Propaganda",
+   "en": "Soviet constructivist propaganda poster, giant bold red background, stencil sans-serif slogan, heroic worker photomontage, dramatic chiaroscuro lighting, hammer and sickle motif subtle",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "构成主义 Constructivism",
+   "en": "Russian Constructivism poster, dynamic diagonal layout, bold red black and white, photo montage, heavy sans-serif typography at angle, industrial smokestacks, revolutionary slogan",
+   "feat": ""
+  }
+ ],
+ "cinematic-still": [
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "变形宽银幕",
+   "en": "anamorphic lens, lens flare, oval bokeh, 2x squeeze, cinematic",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "无后期原始输出",
+   "en": "flat color profile, log output, no post processing, raw render, neutral",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "胶片调色 LUT",
+   "en": "film LUT, Kodak 2383, Fuji Eterna, cine grade, movie look",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "变形宽银幕 2.39:1（CinemaScope/Panavision）",
+   "en": "anamorphic 2.39:1 CinemaScope, oval bokeh, lens flares, horizontal streaks",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "辉光与泛光",
+   "en": "bloom, glow effect, soft glow, bright highlights, dreamy",
+   "feat": ""
+  }
+ ],
+ "rembrandt-portrait": [
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "伦勃朗光",
+   "en": "rembrandt lighting, triangle light, dramatic portrait, painterly light",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实或三渲二 + 85mm 人像 + 三点布光/伦勃朗；皮肤 SSS、毛发 groom",
+   "en": "character render, portrait, realistic human, stylized character, hero",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "伦勃朗三点布光",
+   "en": "Rembrandt three-point lighting, triangle cheek light, classic portrait",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  }
+ ],
+ "street-leica": [
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "去饱和 · 冷灰新闻纪实版",
+   "en": "docudrama cold gray, news footage aesthetic, desaturated greens, slightly harsh contrast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "黑白单色",
+   "en": "black and white, monochrome, grayscale, noir, desaturate",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "胶片调色 LUT",
+   "en": "film LUT, Kodak 2383, Fuji Eterna, cine grade, movie look",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "达内兄弟手持自然光纪实",
+   "en": "Dardenne brothers handheld natural light, following behind shoulder, social realism, working class",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "黑白高反差（Noir High Contrast）",
+   "en": "black and white high contrast noir, crushed blacks, hard bright highlights, dramatic shadows, film grain",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "超现实/抽象 + 方形构图 + 特殊胶片 LUT；艺术感强",
+   "en": "album cover, music artwork, surreal 3D, vinyl cover art",
+   "feat": ""
+  }
+ ],
+ "portra-film": [
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "胶片调色 LUT",
+   "en": "film LUT, Kodak 2383, Fuji Eterna, cine grade, movie look",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "自然光写实",
+   "en": "natural available light, realistic daylight, no visible film lighting",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "富士胶片暖调青阴影（Eterna感）",
+   "en": "Fujifilm Eterna look, cool cyan shadows, soft low contrast, muted greens, natural skin",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "超现实/抽象 + 方形构图 + 特殊胶片 LUT；艺术感强",
+   "en": "album cover, music artwork, surreal 3D, vinyl cover art",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "达内兄弟手持自然光纪实",
+   "en": "Dardenne brothers handheld natural light, following behind shoulder, social realism, working class",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "婚礼宴会暖调热闹",
+   "en": "wedding reception warm, string lights chandelier, laughing crowd, romantic celebration",
+   "feat": ""
+  }
+ ],
+ "desk-flatlay": [
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "高角度俯拍（渺小感）",
+   "en": "high angle looking down, small vulnerable figure, bird's eye feel",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "自然光写实",
+   "en": "natural available light, realistic daylight, no visible film lighting",
+   "feat": ""
+  },
+  {
+   "lib": "镜头角度",
+   "axis": "静态摄影题材专用角度",
+   "name": "生活方式/使用场景",
+   "en": "In-context / lifestyle",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "俯拍上帝视角",
+   "en": "overhead god's-eye view, straight down or above 60 degrees, characters small, environment dominates frame, omniscient perspective, layout showcase",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "达内兄弟手持自然光纪实",
+   "en": "Dardenne brothers handheld natural light, following behind shoulder, social realism, working class",
+   "feat": ""
+  },
+  {
+   "lib": "镜头角度",
+   "axis": "拍摄高度/垂直角度（Camera Angle by Height）",
+   "name": "顶拍 / 垂直俯拍 Top shot / Overhead 90°（顶视）",
+   "en": "High Angle Shot",
+   "feat": "主体清晰、细节可见；画面压扁为图形平面"
+  }
+ ],
+ "documentary-candid": [
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "去饱和 · 冷灰新闻纪实版",
+   "en": "docudrama cold gray, news footage aesthetic, desaturated greens, slightly harsh contrast",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "自然光写实",
+   "en": "natural available light, realistic daylight, no visible film lighting",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "达内兄弟手持自然光纪实",
+   "en": "Dardenne brothers handheld natural light, following behind shoulder, social realism, working class",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "阿方索·卡隆自然光长镜",
+   "en": "Alfonso Cuarón natural light long take, black and white Roma style, environmental immersion",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "FSA 农业安全局纪实 Farm Security Administration (FSA)",
+   "en": "FSA documentary 1930s Great Depression, Walker Evans 8x10, black and white, medium contrast, fine grain, frontal documentary portrait, natural light, American South, social realism",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "马格南式纪实 Magnum documentary",
+   "en": "Magnum documentary photography, 35mm Leica, black and white, medium contrast, candid humanist street, reportage, natural light, grainy film look, empathetic storytelling",
+   "feat": ""
+  }
+ ],
+ "golden-silhouette": [
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "建筑表现风 + 超广角/人视点 + 日光模拟（黄金时刻）；配景人车树",
+   "en": "architectural exterior, building render, golden hour, entourage people",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "双侧勾边双逆光",
+   "en": "double rim light, dual kickers, edge separation, two-tone edge",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "纯背光剪影",
+   "en": "silhouette, backlit subject, strong backlight, dark figure",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实 + 长焦压缩/低角度 + 日落逆光或城市 HDRI；车漆清漆层、镀铬",
+   "en": "car render, automotive, vehicle design, sunset rim light, supercar",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "剪影轮廓构图",
+   "en": "silhouette composition, backlit black figure, strong outline, sunset rim",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 微距/45° + 侧逆光；玻璃凝露、蒸汽、新鲜感",
+   "en": "food render, beverage, condensation, steam, delicious, fresh",
+   "feat": ""
+  }
+ ],
+ "night-long-exposure": [
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "蓝调时刻（Blue Hour）",
+   "en": "blue hour twilight, deep blue sky, city lights on, warm windows contrast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "影视写实 + 长焦压缩/低角度 + 日落逆光或城市 HDRI；车漆清漆层、镀铬",
+   "en": "car render, automotive, vehicle design, sunset rim light, supercar",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "载体与画质",
+   "name": "35mm · 500T夜景推冲粗颗粒",
+   "en": "pushed 500T night, heavy film grain, gritty shadows, nocturnal",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "光线方案",
+   "name": "蓝调时刻 Blue Hour",
+   "en": "cityscape at dusk, blue hour, cool blue sky, streetlights on, soft even light, neon signs, long exposure, light trails, teal and orange, medium format, Fujifilm Provia 100F, twilight mood, urban night",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "天台城市天际线夜景",
+   "en": "rooftop skyline night, city bokeh background, wind, freedom or loneliness, urban vastness",
+   "feat": ""
+  }
+ ],
+ "studio-product-white": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍写实 + 无畸变正视或 3/4 视角 + 三点布光/高调纯白；材质如实还原",
+   "en": "product visualization, studio render, hero shot, e-commerce, packaging",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "高调纯净",
+   "en": "high key, bright and airy, clean, minimal shadows, medical tech, sterile",
+   "feat": "明亮均匀、几乎无阴影、洁净医疗/科技气质"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "卡通/粘土 + 正交 + 白底/描边；PNG 透明底",
+   "en": "3D sticker, social media sticker, transparent background, emoji 3D",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "无畸变产品正视",
+   "en": "product front view, zero distortion, telecentric look, orthogonal shot",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍 + 无畸变正视 + 高调纯白/渐变背景；无干扰物",
+   "en": "e-commerce hero image, amazon main image, white background product",
+   "feat": ""
+  }
+ ],
+ "drone-aerial": [
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "航拍俯视",
+   "en": "bird's eye view, drone top-down, flat lay, 90 degrees, aerial",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "高角度俯拍（渺小感）",
+   "en": "high angle looking down, small vulnerable figure, bird's eye feel",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "航拍俯瞰（Drone Aerial）",
+   "en": "drone aerial top-down, vast landscape, tiny human, establishing shot",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "俯拍上帝视角",
+   "en": "overhead god's-eye view, straight down or above 60 degrees, characters small, environment dominates frame, omniscient perspective, layout showcase",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "技术路径 Technical Pipelines",
+   "name": "几何节点",
+   "en": "geometry nodes, procedural modeling, instancing, modifier stack",
+   "feat": ""
+  }
+ ],
+ "big-claim-poster": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "大留白 Generous Whitespace",
+   "en": "Luxury minimal poster, 90 percent empty white space, single small black typographic element in lower third, extreme restraint, premium gallery feel, no decoration",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "高调纯净",
+   "en": "high key, bright and airy, clean, minimal shadows, medical tech, sterile",
+   "feat": "明亮均匀、几乎无阴影、洁净医疗/科技气质"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "高调纯白",
+   "en": "high key, pure white cyclorama, clean studio, bright",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍写实 + 无畸变正视或 3/4 视角 + 三点布光/高调纯白；材质如实还原",
+   "en": "product visualization, studio render, hero shot, e-commerce, packaging",
+   "feat": ""
+  }
+ ],
+ "before-after-income": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "全屏分屏 Split Screen",
+   "en": "Split screen landing page, left half photography mood image, right half solid color with headline and form, perfectly divided 50/50, modern clean, choice-oriented design",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "赛博朋克/抽象 + 任意风格镜头 + 霓虹自发光明暗对比",
+   "en": "NFT artwork, 3D collectible, crypto art, digital art, 1/1",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "高对比黑白木刻",
+   "en": "high-contrast black-white woodcut texture, knife marks and wood grain, stark black and white, woodblock print, intaglio and relief",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Bodoni（现代衬线高对比）",
+   "en": "Vogue style magazine cover with Bodoni title, extreme contrast modern serif, supermodel portrait, glossy red lip, luxury fashion",
+   "feat": ""
+  }
+ ],
+ "three-step-loop": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "扁平图标化",
+   "en": "flat iconographic character design, geometric simplification, two-color limited palette, app-icon feel, Material Design motion guidelines",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "游戏技能图标循环",
+   "en": "game skill icon loop, skill buff icon micro-loop, 1-3 seconds, 64x64 to 128x128 px, CD mask overlay, cooldown number",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "扁平阴影造型",
+   "en": "flat shadow-styled design, fixed-angle long shadow 45 degrees, two-tone layering, no gradient, Google Material illustration",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "图标系统 Icon System",
+   "en": "unified icon family set displayed on grid, thin line icons same stroke width corner radius, UI navigation symbols, clean sheet",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "长焦压缩扁平化",
+   "en": "telephoto compression flattening, space compressed, background enlarged and close, shallow depth of field, facial flattening flattering, 85mm plus",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "色彩体系",
+   "name": "有限色扁平插画调色盘 Limited Flat Palette",
+   "en": "flat illustration set with limited 5-color palette, isometric office scenes, clean vector, SaaS onboarding illustrations, consistent branding",
+   "feat": ""
+  }
+ ],
+ "storyboard-grid": [
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "定焦标准视角（35/40/50mm）",
+   "en": "prime lens 50mm, natural perspective, human eye view, standard focal length",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "体积光与丁达尔",
+   "en": "god rays, volumetric lighting, tyndall effect, light shafts, dust motes",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "超广角贴脸畸变",
+   "en": "extreme wide-angle close-up, facial distortion, exaggerated nose, surreal intense",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 暗场点亮状态 + 自发光/体积光；IES 光域网",
+   "en": "lighting fixture, lamp render, light on, IES profile, pendant",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "长焦压缩窥视",
+   "en": "telephoto compression, peeping perspective, shallow depth of field, distant observer",
+   "feat": ""
+  }
+ ],
+ "logo-wall": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "扁平图标化",
+   "en": "flat iconographic character design, geometric simplification, two-color limited palette, app-icon feel, Material Design motion guidelines",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "模块化网格 Modular Grid",
+   "en": "Layout on a strict modular grid, equal square modules, content blocks snapping to grid, clean systematic arrangement, swiss design influence, plenty of white space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "游戏技能图标循环",
+   "en": "game skill icon loop, skill buff icon micro-loop, 1-3 seconds, 64x64 to 128x128 px, CD mask overlay, cooldown number",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "栏式网格 Column Grid",
+   "en": "Editorial magazine page, six-column grid, body text flowing in columns, wide gutters, pull quotes spanning two columns, clean serif typography, structured",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  }
+ ],
+ "toc-card": [
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "卡片式 Card Layout",
+   "en": "Card-based dashboard UI, grid of uniform cards each containing icon title and stats, subtle drop shadows, rounded corners, light gray background, clean modern SaaS style",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "移动界面 Mobile App UI",
+   "en": "iOS mobile banking app screens set, tab bar navigation, card lists, biometric login, clean modern fintech interface",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "动态图形 Motion Graphics Title/UI",
+   "en": "motion graphics title sequence for tech keynote, kinetic typography revealing key message, smooth easing, subtle particle background, broadcast quality",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "液体金属 Liquid Metal & Chrome",
+   "en": "liquid chrome abstract 3D shape on pastel gradient background, reflective metallic balloon form, Y2K futuristic poster",
+   "feat": ""
+  }
+ ],
+ "warning-pitfall": [
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "高对比黑白木刻",
+   "en": "high-contrast black-white woodcut texture, knife marks and wood grain, stark black and white, woodblock print, intaglio and relief",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Bodoni（现代衬线高对比）",
+   "en": "Vogue style magazine cover with Bodoni title, extreme contrast modern serif, supermodel portrait, glossy red lip, luxury fashion",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Playfair Display（现代高对比显示衬线）",
+   "en": "Playfair Display beauty blog header, elegant high contrast serif headline, soft pink marble texture, gold jewelry product, lifestyle editorial",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "卡通渲染",
+   "en": "cel shaded, toon shader, flat colors, bold outlines, stepped shadows, cartoon",
+   "feat": "扁平色块、阴影阶跃明确、黑色轮廓描边"
+  }
+ ],
+ "qa-bubbles": [
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "卡片式 Card Layout",
+   "en": "Card-based dashboard UI, grid of uniform cards each containing icon title and stats, subtle drop shadows, rounded corners, light gray background, clean modern SaaS style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "移动界面 Mobile App UI",
+   "en": "iOS mobile banking app screens set, tab bar navigation, card lists, biometric login, clean modern fintech interface",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "动态图形 Motion Graphics Title/UI",
+   "en": "motion graphics title sequence for tech keynote, kinetic typography revealing key message, smooth easing, subtle particle background, broadcast quality",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "液体金属 Liquid Metal & Chrome",
+   "en": "liquid chrome abstract 3D shape on pastel gradient background, reflective metallic balloon form, Y2K futuristic poster",
+   "feat": ""
+  }
+ ],
+ "screenshot-proof": [
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "UI 动效微交互",
+   "en": "UI micro-interaction motion, button states loading transitions gesture hints, 150-400ms easing curve, clear semantics, low-power Lottie SVG vector",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "卡通/粘土 + 正交 + 高调柔和；爆炸图分解、标注引线",
+   "en": "educational illustration, explainer graphic, exploded view, infographic",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "字体系统",
+   "name": "Segoe UI / Open Sans / Lato（UI 三件套）",
+   "en": "Segoe UI Windows application window mockup, clean interface typography, light theme, readable form labels, native desktop app",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "移动界面 Mobile App UI",
+   "en": "iOS mobile banking app screens set, tab bar navigation, card lists, biometric login, clean modern fintech interface",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "动态图形 Motion Graphics Title/UI",
+   "en": "motion graphics title sequence for tech keynote, kinetic typography revealing key message, smooth easing, subtle particle background, broadcast quality",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "液体金属 Liquid Metal & Chrome",
+   "en": "liquid chrome abstract 3D shape on pastel gradient background, reflective metallic balloon form, Y2K futuristic poster",
+   "feat": ""
+  }
+ ],
+ "cheatsheet-table": [
+  {
+   "lib": "动画",
+   "axis": "应用类型",
+   "name": "新闻信息图动画",
+   "en": "news infographic animation, news data/process explainer, fast turnaround, 15-60 seconds, big key numbers, source footnote, vertical social-first",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "版式结构",
+   "name": "卡片式 Card Layout",
+   "en": "Card-based dashboard UI, grid of uniform cards each containing icon title and stats, subtle drop shadows, rounded corners, light gray background, clean modern SaaS style",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "应用载体",
+   "name": "信息图 Infographic",
+   "en": "vertical infographic about climate change facts, clear headline, icon-based statistics, timeline chart, sources at bottom, educational shareable",
+   "feat": ""
+  }
+ ],
+ "anime-sky": [
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "渐变背景灯",
+   "en": "gradient background, colored backdrop, studio gradient, color wash",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "手绘赛璐璐",
+   "en": "hand-painted cel animation on transparent celluloid, flat color fills, crisp outlines, vintage 1930s-90s cartoon, multiplane camera",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "剪纸动画",
+   "en": "paper cut-out stop-motion, articulated paper puppets, visible rivet joints, hard edges, paper fiber texture, folk art style",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "程序化抽象 + 实验镜头 + 霓虹/渐变背景；高饱和强节奏",
+   "en": "abstract 3D art, procedural forms, colorful, generative, modern art",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "赛璐璐两段影",
+   "en": "cel two-tone shading, base color plus single shadow layer, hard-edged shadow boundary, standard anime coloring, two-step value",
+   "feat": ""
+  }
+ ],
+ "cozy-anime-room": [
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "日系大眼",
+   "en": "Japanese large anime eyes, multi-layer iris gradient highlights, clustered eyelashes, enlarged eye sockets, emotion amplifier, moe aesthetic, Kyoto Animation",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "富士胶片暖调青阴影（Eterna感）",
+   "en": "Fujifilm Eterna look, cool cyan shadows, soft low contrast, muted greens, natural skin",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "剪纸动画",
+   "en": "paper cut-out stop-motion, articulated paper puppets, visible rivet joints, hard edges, paper fiber texture, folk art style",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "婚礼宴会暖调热闹",
+   "en": "wedding reception warm, string lights chandelier, laughing crowd, romantic celebration",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "沙画动画",
+   "en": "sand animation on backlit glass table, finger-smudged morphing, granular texture, earth tones, flowing metamorphosis, top-down view",
+   "feat": ""
+  }
+ ],
+ "guochao": [
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "纹样与底纹 Patterns & Textures",
+   "en": "seamless geometric pattern texture, four-directional repeat, brand decorative motif, wrapping paper or fabric print application --tile",
+   "feat": ""
+  }
+ ],
+ "shanshui-ink": [
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "水墨流动动画",
+   "en": "ink wash flow animation, ink diffusing in water, rice-paper bleed, five ink tones, calligraphic negative space, Shanghai Film Studio",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "单色染色 · 青绿（Cyanotype）",
+   "en": "cyanotype monochrome teal green, ice-blue highlights, clinical eerie",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "水墨浓淡晕染",
+   "en": "ink wash tonal gradation, five ink tones burnt-thick-heavy-light-clear, rice-paper bleed, feibai flying-white, negative space, Shanghai Film Studio",
+   "feat": ""
+  },
+  {
+   "lib": "平面设计",
+   "axis": "图形语言",
+   "name": "水墨飞白 Ink Wash & Brush Calligraphy",
+   "en": "chinese ink wash landscape painting, mountains in mist with bold brush strokes and blank space, traditional scroll aesthetic, zen calm",
+   "feat": ""
+  }
+ ],
+ "wuxia-cinematic": [
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "体积光与丁达尔",
+   "en": "god rays, volumetric lighting, tyndall effect, light shafts, dust motes",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级写实 + 暗场点亮状态 + 自发光/体积光；IES 光域网",
+   "en": "lighting fixture, lamp render, light on, IES profile, pendant",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "雾气体积光（God Rays）",
+   "en": "fog volume light, god rays beams, atmospheric haze, cinematic shafts",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "场面与时间",
+   "name": "农场谷仓尘埃体积光",
+   "en": "barn shafts of light through cracks, dust motes, warm rustic nostalgia",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "体积光丁达尔",
+   "en": "volumetric Tyndall light beams, visible light shafts, smoke dust haze medium, divine mysterious stage, god rays, crepuscular rays",
+   "feat": ""
+  }
+ ],
+ "cel-shaded-anime": [
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "手绘赛璐璐",
+   "en": "hand-painted cel animation on transparent celluloid, flat color fills, crisp outlines, vintage 1930s-90s cartoon, multiplane camera",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "卡通渲染",
+   "en": "cel shaded, toon shader, flat colors, bold outlines, stepped shadows, cartoon",
+   "feat": "扁平色块、阴影阶跃明确、黑色轮廓描边"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "极简/几何抽象 + 等距正交 + 高调纯色；循环无缝动画",
+   "en": "motion graphics, looping animation, geometric shapes, mg, broadcast",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "Pixar 角色表演体系",
+   "en": "Pixar character performance system, believable physics simulation, subtle facial rigging brow-lip link, character-as-star storytelling, color script, CG animation",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "上色与质感",
+   "name": "赛璐璐两段影",
+   "en": "cel two-tone shading, base color plus single shadow layer, hard-edged shadow boundary, standard anime coloring, two-step value",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "制作技法",
+   "name": "剪纸动画",
+   "en": "paper cut-out stop-motion, articulated paper puppets, visible rivet joints, hard edges, paper fiber texture, folk art style",
+   "feat": ""
+  }
+ ],
+ "minhwa-folk": [
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "韩国类型片",
+   "en": "Korean genre film, polished production, teal orange thriller, meticulous lighting, intense close-ups",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "地域与产业体系",
+   "name": "韩国网漫改编动画工业",
+   "en": "Korean webtoon adaptation anime, vertical scroll panel adaptation, Korean urban fashion design, strong black-white contrast, Solo Leveling style, webtoon",
+   "feat": ""
+  }
+ ],
+ "chinese-poster-retro": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "九十年代早期 CG 复古",
+   "en": "90s CGI, retro computer graphics, PS1 era, Gouraud shading, low res textures, VHS",
+   "feat": "低精度模型、硬边 Gouraud 着色、压缩抖动的仿旧纹理"
+  },
+  {
+   "lib": "平面设计",
+   "axis": "历史流派",
+   "name": "装饰艺术运动 Art Deco",
+   "en": "Art Deco poster 1920s, sunburst rays background, zigzag geometric border, gold foil accents, stylized fountain figure, elegant tall sans serif, luxurious, symmetrical",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "调色方案",
+   "name": "复古褪色（Vintage Fade）",
+   "en": "vintage faded film, lifted blacks, milky highlights, aged color shift, film dust scratches",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "镜头语言",
+   "name": "复古镜头低反差眩光",
+   "en": "vintage lens low contrast flare, hazy backlight, washed-out colors, retro",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "胶片品牌与型号",
+   "name": "Foma FOMAPAN RETROPAN 320 soft（黑白负片，ISO 320/26°，复古取向）",
+   "en": "Foma Retropan 320 soft ISO 320 black and white, retro look, soft contrast, rich midtones, fine grain, contact print aesthetic, vintage monochrome, D-76, still life architecture portrait, warm silver tone",
+   "feat": ""
+  },
+  {
+   "lib": "动画",
+   "axis": "造型与线条",
+   "name": "复古30年代弗拉珀风",
+   "en": "1930s flapper era design, finger-wave curls, fringe dresses, slender limbs, rubber hose afterglow, jazz age art deco",
+   "feat": ""
+  }
+ ],
+ "surreal-scale": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "超现实梦幻",
+   "en": "surreal, dreamlike, floating objects, impossible scale, soft focus, ethereal, fantasy",
+   "feat": "反物理组合、漂浮元素、柔焦、不合逻辑尺度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "超现实/抽象 + 方形构图 + 特殊胶片 LUT；艺术感强",
+   "en": "album cover, music artwork, surreal 3D, vinyl cover art",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "历史流派与年代",
+   "name": "超现实主义摄影 Surrealist photography",
+   "en": "surrealist photography 1920s, rayograph photogram, solarization, Man Ray, high contrast negative effect, dreamlike double exposure, disembodied objects, avant-garde Paris, experimental darkroom",
+   "feat": ""
+  }
+ ],
+ "double-exposure": [
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "纯背光剪影",
+   "en": "silhouette, backlit subject, strong backlight, dark figure",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "高调纯净",
+   "en": "high key, bright and airy, clean, minimal shadows, medical tech, sterile",
+   "feat": "明亮均匀、几乎无阴影、洁净医疗/科技气质"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "剪影轮廓构图",
+   "en": "silhouette composition, backlit black figure, strong outline, sunset rim",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "高调纯白",
+   "en": "high key, pure white cyclorama, clean studio, bright",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "灯光方案",
+   "name": "背光剪影",
+   "en": "strong backlight silhouette, dark figure bright background, sunset outline",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "产品级棚拍写实 + 无畸变正视或 3/4 视角 + 三点布光/高调纯白；材质如实还原",
+   "en": "product visualization, studio render, hero shot, e-commerce, packaging",
+   "feat": ""
+  }
+ ],
+ "endless-maze": [
+  {
+   "lib": "电影画面",
+   "axis": "画幅与构图",
+   "name": "高角度俯拍（渺小感）",
+   "en": "high angle looking down, small vulnerable figure, bird's eye feel",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "动画",
+   "axis": "镜头与美术",
+   "name": "俯拍上帝视角",
+   "en": "overhead god's-eye view, straight down or above 60 degrees, characters small, environment dominates frame, omniscient perspective, layout showcase",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "镜头角度",
+   "axis": "拍摄高度/垂直角度（Camera Angle by Height）",
+   "name": "顶拍 / 垂直俯拍 Top shot / Overhead 90°（顶视）",
+   "en": "High Angle Shot",
+   "feat": "主体清晰、细节可见；画面压扁为图形平面"
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "八十年代高概念霓虹",
+   "en": "1980s high concept neon, saturated pinks purples, haze machines, synthwave, stylish nightlife",
+   "feat": ""
+  }
+ ],
+ "chess-strategy": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "顶光（上帝光）",
+   "en": "overhead light, top down lighting, god light, harsh overhead",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "相机与镜头 Camera and Lens",
+   "name": "浅景深微距",
+   "en": "macro 100mm f/2.8, extreme close-up, shallow depth of field, focus plane",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "高调纯净 + 无畸变正视 + 均匀顶光；洁净塑料金属、无影",
+   "en": "medical device render, clinical, clean, hospital equipment, sterile",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "后期与调色 Post-Processing and Color Grading",
+   "name": "景深合成",
+   "en": "focus stack, all-in-focus macro, composite sharpness, depth blend",
+   "feat": ""
+  }
+ ],
+ "iceberg": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "影视级写实",
+   "en": "cinematic, photorealistic, Arri Alexa, film grain, shallow depth of field, color graded, film look",
+   "feat": "电影感高动态范围、精细景深、胶片质感、戏剧化光影"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "产品级棚拍写实",
+   "en": "studio lighting, pure white background, product photography, sharp focus, clean reflections, commercial shoot",
+   "feat": "纯白或渐变背景、无杂影硬边、完美连续反光、高锐度"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "卡通渲染",
+   "en": "cel shaded, toon shader, flat colors, bold outlines, stepped shadows, cartoon",
+   "feat": "扁平色块、阴影阶跃明确、黑色轮廓描边"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "三渲二",
+   "en": "anime style, cel animation, Studio Ghibli aesthetic, expressive line art, manga",
+   "feat": "日式动画赛璐珞、描边随透视变化、眼瞳多层高光"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "粘土渲染",
+   "en": "clay render, matte white clay, untextured, soft shadows, form study, mockup",
+   "feat": "无纹理哑光白或浅灰材质、柔和高光、纯粹强调形体"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "等距小场景",
+   "en": "isometric view, orthographic camera, tiny world, diorama, 2:1 pixel ratio, cute",
+   "feat": "正交投影无灭点、约 45° 水平转角、紧凑 Q 版比例"
+  }
+ ],
+ "portal-door": [
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "超现实梦幻",
+   "en": "surreal, dreamlike, floating objects, impossible scale, soft focus, ethereal, fantasy",
+   "feat": "反物理组合、漂浮元素、柔焦、不合逻辑尺度"
+  },
+  {
+   "lib": "摄影",
+   "axis": "摄影门类",
+   "name": "新生儿摄影 Newborn photography",
+   "en": "newborn photography, sleeping baby, posed, soft pastel colors, f/2.8, warm studio light, softbox, wrapped blanket, tiny details, clean background, high key, gentle skin tones, props, safe posing, portrait, innocent",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "暗光生物发光",
+   "en": "bioluminescent, dark environment, self-illuminated organs, translucent glow, deep sea, abyss",
+   "feat": "黑暗环境中自体冷光、半透明发光器官"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "超现实/抽象 + 方形构图 + 特殊胶片 LUT；艺术感强",
+   "en": "album cover, music artwork, surreal 3D, vinyl cover art",
+   "feat": ""
+  },
+  {
+   "lib": "摄影",
+   "axis": "摄影门类",
+   "name": "裸体艺术 Nude art photography",
+   "en": "fine art nude, human body, black and white, soft lighting, f/5.6, graceful pose, shadows and form, medium format, classical, tasteful, gallery art, skin texture, dramatic light, silhouette, timeless, sculptural",
+   "feat": ""
+  }
+ ],
+ "mirror-reflection": [
+  {
+   "lib": "镜头角度",
+   "axis": "特殊视角与构图角度",
+   "name": "反射 / 镜像镜头",
+   "en": "Reflection Shot / Mirror Shot",
+   "feat": "—"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "概念艺术手绘风",
+   "en": "concept art style, painterly brushstrokes, digital painting, artstation, loose edges, matte painting",
+   "feat": "笔触肌理、厚涂感、绘画性边缘、ArtStation 审美"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "渲染风格 Rendering Style",
+   "name": "低调情绪暗场",
+   "en": "dark moody, low key lighting, high contrast, chiaroscuro, dramatic shadows, film noir",
+   "feat": "大面积阴影、小面积高光、极高反差、明暗对照法"
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "应用类型 Application Types",
+   "name": "电影感/概念艺术 + 广角冲击 + 青橙或胶片 LUT；标题留白",
+   "en": "movie poster, key visual, cinematic poster, blockbuster, title space",
+   "feat": ""
+  },
+  {
+   "lib": "三维渲染",
+   "axis": "灯光方案 Lighting",
+   "name": "低调暗场",
+   "en": "low key, dark mood, chiaroscuro, dramatic shadows, film noir",
+   "feat": ""
+  },
+  {
+   "lib": "电影画面",
+   "axis": "类型与年代风格",
+   "name": "八十年代高概念霓虹",
+   "en": "1980s high concept neon, saturated pinks purples, haze machines, synthwave, stylish nightlife",
+   "feat": ""
+  }
+ ]
+}

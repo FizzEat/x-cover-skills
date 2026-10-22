@@ -1,0 +1,1694 @@
+[
+ {
+  "skill": "x-cover-blueprint-isometric",
+  "name": "白底蓝图等轴测三段流",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "AI 创作"
+  ],
+  "zone": "cn",
+  "hook": "中文区 AI 编程第一名同款：左字右图，三张等轴测卡片讲清“输入→编排→产出”。",
+  "prompt_template": "Clean minimalist tech blueprint banner, pure crisp white background. Left side reserved empty for bold typography. Right side: a sequence of three isometric technical UI diagrams connected by thin cobalt blue directional arrows: [STEP_1], [STEP_2], [STEP_3]. Thin vector wireframes, translucent frosted glass plates, cobalt blue (#2563EB) and slate gray accent lines, subtle soft contact shadows, ultra-clean enterprise productivity aesthetic, ruler tick marks along the edges",
+  "variables": {
+   "STEP_1": "第一步的可视物，如 a floating terminal window with a command prompt",
+   "STEP_2": "第二步，如 a branching task tree on a glass plate",
+   "STEP_3": "产出物，如 a glowing wireframe data cube"
+  }
+ },
+ {
+  "skill": "x-cover-terminal-hero",
+  "name": "暗色终端窗口英雄图",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "一扇 macOS 暗色终端窗口当主角，命令行的“真实感”就是干货感。",
+  "prompt_template": "Modern developer tool cover, deep [BG_COLOR] gradient background with a soft glow orb. A floating dark mode macOS terminal window in slight 3D perspective on the right, showing syntax-highlighted command lines, a progress bar and a blinking cursor (text as abstract texture), red yellow green window buttons, subtle glassmorphism reflection, clean left negative space for headline, crisp UI render, premium dev-tool landing page aesthetic",
+  "variables": {
+   "BG_COLOR": "背景主色，如 navy、charcoal、deep violet"
+  }
+ },
+ {
+  "skill": "x-cover-node-workflow-window",
+  "name": "节点工作流软件界面",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 创作",
+   "AI 编程"
+  ],
+  "zone": "cn",
+  "hook": "ComfyUI / n8n / Dify 类教程专用：密集连线的节点图 = 保姆级。",
+  "prompt_template": "Modern tech tutorial cover, clean warm gray background. Left side reserved for title and small feature badge pills. Right side: a high-resolution dark mode desktop application window running a complex node graph editor, intricate colored bezier connector lines linking many parameter cards and text boxes, a small live preview panel showing [PREVIEW]. Node-based workflow UI, precise alignment, software dashboard aesthetic",
+  "variables": {
+   "PREVIEW": "预览窗口里的生成结果，如 an expressive 3D character、a cinematic landscape frame"
+  }
+ },
+ {
+  "skill": "x-cover-bento-grid",
+  "name": "Bento 便当格功能总览",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程",
+   "AI 观察",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "一张图塞下 6~8 个要点，苹果发布会式 Bento 网格，适合“合集/全解析”。",
+  "prompt_template": "Asymmetric bento grid layout infographic, landscape. One large hero tile featuring [HERO_OBJECT], surrounded by 6 smaller rounded tiles with minimal line icons, a tiny bar chart, a toggle switch, a big number placeholder and a short label placeholder. Frosted acrylic glass tiles with 24px rounded corners, soft layered shadows, 90% neutral colors with [ACCENT] accent, Apple keynote feature-overview aesthetic, generous gutters",
+  "variables": {
+   "HERO_OBJECT": "核心主体，如 a glossy 3D AI chip、a glass app icon",
+   "ACCENT": "点缀色，如 electric blue、coral"
+  }
+ },
+ {
+  "skill": "x-cover-swiss-infographic",
+  "name": "瑞士网格信息图",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 观察",
+   "财经币圈",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "严格网格 + 大号编号 + 色块，读起来像一份设计精良的报告。",
+  "prompt_template": "Swiss International Style infographic poster, strict modular grid, oversized numerals 01 02 03 in Helvetica-like grotesk, bold geometric color blocks in red, black and off-white, thin hairline dividers, small arrow diagrams showing [DIAGRAM], asymmetric layout with lots of white space, flat print design, no gradients, no shadows",
+  "variables": {
+   "DIAGRAM": "图示内容，如 three stages of AI adoption、input-process-output"
+  }
+ },
+ {
+  "skill": "x-cover-checklist-card",
+  "name": "Notion 清单打勾卡",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "账号支付",
+   "AI 编程",
+   "做号变现"
+  ],
+  "zone": "cn",
+  "hook": "账号支付 TOP1 同款：暖白纸底 + 一张清单卡，每行一个图标一个对勾。",
+  "prompt_template": "Minimalist editorial checklist banner, warm off-white cream paper texture background (#FAF7F2). Left side spacious empty area for bold title. Right side: a modern vertical rounded card with soft ambient shadow, inside [N] neat checklist rows, each with a minimalist monoline icon ([ICONS]), a short text placeholder bar and a warm terracotta orange checkmark. Notion-style aesthetic, Swiss editorial design, crisp vector clarity",
+  "variables": {
+   "N": "清单条数，建议 4~6",
+   "ICONS": "每行图标，如 laptop, clock, SIM card, wifi, credit card"
+  }
+ },
+ {
+  "skill": "x-cover-split-compare",
+  "name": "左右对比 Before/After",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "职场成长"
+  ],
+  "zone": "cn",
+  "hook": "左边混乱右边整洁，一眼看懂“用了这个方法之后”。",
+  "prompt_template": "Split screen before and after comparison banner. Left half: [BEFORE], desaturated, cold dim lighting, messy. Right half: [AFTER], bright, clean, organized, warm light. A bold glowing arrow or light beam divides the two halves. High contrast storytelling, clean modern 3D illustration style, clear focal points on each side",
+  "variables": {
+   "BEFORE": "改变前的状态，如 a chaotic desk buried in sticky notes and error windows",
+   "AFTER": "改变后，如 a calm minimal desk with one glowing dashboard"
+  }
+ },
+ {
+  "skill": "x-cover-roadmap-timeline",
+  "name": "路线图时间轴",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "职场成长",
+   "AI 编程",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "一条蜿蜒道路串起里程碑，适合“30 天/从 0 到 1/学习路径”。",
+  "prompt_template": "Isometric roadmap illustration, a winding S-shaped path rising from bottom left to top right across a soft pastel landscape, [COUNT] milestone markers along the road: [MILESTONES], a glowing flag at the summit, tiny figure walking on the path, clean flat 3D style, soft long shadows, left side open space for headline, optimistic learning-journey mood",
+  "variables": {
+   "COUNT": "里程碑数量",
+   "MILESTONES": "每个里程碑的物件，如 a book, a laptop, a rocket, a trophy"
+  }
+ },
+ {
+  "skill": "x-cover-architecture-diagram",
+  "name": "系统架构图海报",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "工程师最爱：分层架构图本身就是封面，一眼看出系统全貌。",
+  "prompt_template": "Technical system architecture diagram poster, dark blueprint navy background with faint grid, layered stack of [LAYERS] drawn as clean isometric slabs, glowing data packets flowing between layers along thin white connector lines, labeled boxes as abstract placeholders, engineering schematic aesthetic, precise and elegant, cyan and white accents",
+  "variables": {
+   "LAYERS": "架构层，如 user interface, agent orchestrator, tool layer, model, vector database"
+  }
+ },
+ {
+  "skill": "x-cover-code-editor-glow",
+  "name": "代码编辑器光晕",
+  "family": "A",
+  "family_name": "工科蓝图与信息结构",
+  "categories": [
+   "AI 编程"
+  ],
+  "zone": "gl",
+  "hook": "一块漂浮的编辑器窗口 + 品牌渐变光晕，像开发工具官网首屏。",
+  "prompt_template": "Floating code editor window in dramatic 3D perspective, syntax highlighted code as abstract texture, an AI inline suggestion highlighted in ghost text, behind it a soft [GLOW] gradient aura with fine grain noise, dark background, glassmorphism window frame, premium developer tool landing page hero, clean negative space on the left",
+  "variables": {
+   "GLOW": "光晕配色，如 violet to orange、teal to blue"
+  }
+ },
+ {
+  "skill": "x-cover-black-bar-chart",
+  "name": "黑底发光柱状图研报",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "财经 TOP1 同款：黑底 + 5 根指数级攀升的发光柱子。",
+  "prompt_template": "High-end research report banner, dark mode keynote style, pitch-black matte background (#0B0B0B). Left side crisp Swiss typography area with an orange accent dash. Right side: an exponential growth bar chart with [N] glowing [COLOR] rounded bars rising from left to right, subtle bloom glow, faint baseline axis, Bloomberg terminal and analyst report aesthetic, precision data visualization, minimalist luxury",
+  "variables": {
+   "N": "柱子数量，建议 5",
+   "COLOR": "柱体颜色，如 electric azure blue、neon green"
+  }
+ },
+ {
+  "skill": "x-cover-triple-candlestick",
+  "name": "三联屏 K 线暴涨暴跌",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈"
+  ],
+  "zone": "cn",
+  "hook": "三块屏幕的 K 线同时剧烈波动，制造“行情来了”的紧迫感。",
+  "prompt_template": "Three side-by-side trading monitors in a dark trading room, candlestick charts showing a dramatic [DIRECTION], glowing red and green candles, reflections on a glossy desk, cinematic shallow depth of field, tense atmosphere, financial thriller mood, screen light as the only light source",
+  "variables": {
+   "DIRECTION": "行情方向，如 parabolic surge、violent crash、V-shaped reversal"
+  }
+ },
+ {
+  "skill": "x-cover-terminal-dashboard",
+  "name": "彭博终端多面板",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "琥珀色等宽字 + 密集面板，彭博终端的专业冷感。",
+  "prompt_template": "Retro professional financial terminal interface, dense information wall of black panels with amber and orange monospace text textures, line charts, heatmap grids, scrolling ticker tape, one central panel highlighted showing [FOCUS], CRT glow, data-dense institutional aesthetic, sharp and serious",
+  "variables": {
+   "FOCUS": "高亮面板内容，如 a rising GPU index chart、a yield curve"
+  }
+ },
+ {
+  "skill": "x-cover-heatmap-grid",
+  "name": "热力图矩阵",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "一整面热力格子，颜色本身就是结论（哪里热、哪里冷）。",
+  "prompt_template": "Full-bleed treemap heatmap of hundreds of rectangular tiles colored in a [PALETTE] gradient, a few tiles extruded in 3D and glowing to show outliers, thin white gaps between tiles, clean data art, institutional market map aesthetic, dark background",
+  "variables": {
+   "PALETTE": "配色，如 red-to-green market colors、blue-to-orange diverging"
+  }
+ },
+ {
+  "skill": "x-cover-big-number-kpi",
+  "name": "巨型数字 KPI",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "做号变现",
+   "财经币圈",
+   "职场成长"
+  ],
+  "zone": "cn",
+  "hook": "整张图只有一个巨大的数字，其余全部服务于它。",
+  "prompt_template": "Giant bold 3D number '[NUMBER]' dominating the frame, made of [MATERIAL], a thin glowing upward line chart sweeping behind it, small annotation placeholder lines, dark minimal background, dramatic top light and rim light, high-end financial results announcement aesthetic",
+  "variables": {
+   "NUMBER": "核心数字，如 10x、$1M、30 天（建议用阿拉伯数字，后期替换更稳）",
+   "MATERIAL": "数字材质，如 polished chrome、frosted glass、gold"
+  }
+ },
+ {
+  "skill": "x-cover-flow-world-map",
+  "name": "全球流向地图",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈",
+   "AI 观察",
+   "做号变现"
+  ],
+  "zone": "gl",
+  "hook": "点阵世界地图 + 发光弧线，讲资本、流量、算力的全球流动。",
+  "prompt_template": "Dotted world map on black background, glowing neon arcs flying from multiple continents and converging on [HUB], pulsing nodes at endpoints, data flow visualization, sleek cyber-finance aesthetic, cyan and magenta accents, wide panoramic composition",
+  "variables": {
+   "HUB": "汇聚枢纽，如 Silicon Valley、Singapore、a single glowing data center"
+  }
+ },
+ {
+  "skill": "x-cover-report-cover-serif",
+  "name": "卖方研报扉页",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "财经币圈",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "像高盛/大摩研报扉页：米白纸、衬线大标题、一张小图表。",
+  "prompt_template": "Institutional equity research report cover page, off-white matte paper, generous margins, large empty serif title area top left, a small elegant [CHART] in navy and orange bottom right, hairline rules and footnote placeholders, restrained editorial finance aesthetic, print design",
+  "variables": {
+   "CHART": "图表类型，如 area chart of rising compute spend、line chart with a single annotation"
+  }
+ },
+ {
+  "skill": "x-cover-newspaper-front",
+  "name": "报纸头版号外",
+  "family": "B",
+  "family_name": "机构研报与数据可视化",
+  "categories": [
+   "AI 观察",
+   "财经币圈",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "做成一份报纸头版，“号外”感天然有新闻价值。",
+  "prompt_template": "Vintage newspaper front page extra edition, broadsheet masthead across the top, huge empty headline area, a halftone black and white news photo of [PHOTO], dense column text as texture, newsprint paper grain, slight ink bleed, folded crease, historic breaking-news mood",
+  "variables": {
+   "PHOTO": "头版照片，如 a crowd staring at a giant screen、a robot shaking hands with a CEO"
+  }
+ },
+ {
+  "skill": "x-cover-stipple-abyss",
+  "name": "点描深渊孤舟",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "全站收藏第一的范式：俯瞰巨型漩涡，一叶孤舟。适合“勇气/不确定性”。",
+  "prompt_template": "Masterpiece vintage black and white engraving, stippling and halftone woodcut illustration, high-contrast monochrome ink art. Extreme high-angle aerial view into a colossal swirling ocean maelstrom spiraling into pitch-black darkness. On the foamy edge, a tiny rowboat with [FIGURE]. Dense pointillism dotwork, fine cross-hatching, chiaroscuro, philosophical metaphor of facing the abyss, epic atmospheric depth, no text",
+  "variables": {
+   "FIGURE": "船上的人物，如 a lone silhouetted figure rowing、an astronaut"
+  }
+ },
+ {
+  "skill": "x-cover-rocket-ink",
+  "name": "黑白漫画火箭升空",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "做号变现"
+  ],
+  "zone": "gl",
+  "hook": "海外第二名同款：火箭冲破浓烟。适合“新开始/突破惯性”。",
+  "prompt_template": "Dramatic monochrome manga ink illustration, retro sci-fi space program style. A massive multistage [VEHICLE] lifting off from an intricate steel launch gantry at night, blinding white engine fire, monumental billowing clouds of smoke rolling across the foreground. Intricate cross-hatching line art, high dynamic range black and white, metaphor for breaking inertia, no text",
+  "variables": {
+   "VEHICLE": "升空主体，如 Saturn V style rocket、a giant paper airplane（反差版）"
+  }
+ },
+ {
+  "skill": "x-cover-dore-engraving",
+  "name": "多雷式史诗铜版画",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "AI 观察",
+   "综合",
+   "职场成长"
+  ],
+  "zone": "gl",
+  "hook": "19 世纪铜版插图的史诗感：天光、云层、渺小的人群。适合宏大叙事。",
+  "prompt_template": "Gustave Doré style 19th century steel engraving, epic biblical-scale composition, colossal clouds parting as a divine beam of light falls on [SUBJECT], tiny crowds looking up in awe, intricate parallel line engraving, dramatic chiaroscuro, monochrome, sublime atmosphere, no text",
+  "variables": {
+   "SUBJECT": "被照亮的主体，如 a glowing monolithic server tower、a lone laptop on a mountain"
+  }
+ },
+ {
+  "skill": "x-cover-woodcut-bold",
+  "name": "粗犷木刻版画",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "综合",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "刀痕粗犷的木刻，力量感强，适合“劳动/坚持/手艺”主题。",
+  "prompt_template": "Bold expressionist woodcut print, thick gouged knife marks, raw black ink on cream rice paper with visible wood grain texture, [SUBJECT] carved in heavy blocky shapes, radiating gouge lines in the background, uneven ink transfer, powerful high contrast, no midtones, no text",
+  "variables": {
+   "SUBJECT": "主体，如 a blacksmith hammering a glowing chip、a farmer planting seeds made of code"
+  }
+ },
+ {
+  "skill": "x-cover-halftone-noir",
+  "name": "网点黑色电影",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "放大的半调网点 + 黑色电影剪影，冷峻有张力。",
+  "prompt_template": "Film noir halftone illustration, enlarged coarse halftone dots visible, [SCENE] in stark silhouette, venetian blind light stripes across the wall, hard side lighting, deep shadows, black and white with a single [ACCENT] spot color, vintage pulp print texture",
+  "variables": {
+   "SCENE": "剪影场景，如 a man in a trench coat staring at a glowing monitor",
+   "ACCENT": "唯一点缀色，如 red、none"
+  }
+ },
+ {
+  "skill": "x-cover-etching-forest",
+  "name": "蚀刻迷雾森林",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "黑暗森林里的一束光，讲“未知中探索”。",
+  "prompt_template": "Fine etching and stippling illustration, black and white, a towering misty dark forest in one-point perspective, [FIGURE] holding a small lantern walking into the depths, a faint distant light at the end of the path, volumetric fog rendered in dots, eerie yet hopeful, philosophical metaphor of exploring the unknown, no text",
+  "variables": {
+   "FIGURE": "探索者，如 a lone astronaut、a child"
+  }
+ },
+ {
+  "skill": "x-cover-mezzotint-portrait",
+  "name": "美柔汀暗调肖像",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "从黑暗里浮现的半张脸，适合人物志、心理、自我认知。",
+  "prompt_template": "Mezzotint print portrait, velvety deep blacks, [PERSON] in profile emerging from pure darkness, only the edge of the face caught by a narrow sliver of light, rich tonal gradation, old master printmaking, contemplative and introspective, large dark negative space on the left, no text",
+  "variables": {
+   "PERSON": "人物，如 a thoughtful young founder、an old philosopher"
+  }
+ },
+ {
+  "skill": "x-cover-scratchboard",
+  "name": "刮板画高光雕刻",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "黑底刮出白线，像钞票雕刻一样精密，适合金融与权力主题。",
+  "prompt_template": "Scratchboard illustration, white lines scratched from black surface, [SUBJECT] rendered in dense precise engraving lines like banknote intaglio, ornamental guilloche patterns framing it, symmetrical composition, crisp and authoritative, no text",
+  "variables": {
+   "SUBJECT": "主体，如 a robot head in profile、a bull and bear"
+  }
+ },
+ {
+  "skill": "x-cover-risograph-duotone",
+  "name": "Riso 孔版双色",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "做号变现",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "孔版印刷的套色错位与颗粒，独立杂志感，年轻又有态度。",
+  "prompt_template": "Risograph print illustration, two-color overprint in [COLORS], slight misregistration, grainy ink texture, [SUBJECT] as bold flat shapes, halftone gradients, indie zine aesthetic, off-white paper, playful and edgy",
+  "variables": {
+   "COLORS": "两种油墨色，如 fluorescent pink and blue、orange and teal",
+   "SUBJECT": "主体"
+  }
+ },
+ {
+  "skill": "x-cover-linocut-nature",
+  "name": "麻胶版画自然",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "麻胶版画的有机线条，讲“慢慢长大/复利/长期主义”。",
+  "prompt_template": "Linocut print, organic carved lines, [GROWTH], roots spreading underground in intricate patterns, two-tone black and [COLOR] on textured cream paper, metaphor for compounding and long-term thinking, handcrafted printmaking, no text",
+  "variables": {
+   "GROWTH": "生长场景，如 a tiny sprout growing into a giant tree",
+   "COLOR": "第二色，如 forest green"
+  }
+ },
+ {
+  "skill": "x-cover-ink-sumi-zen",
+  "name": "禅意水墨留白",
+  "family": "C",
+  "family_name": "黑白版画与哲学隐喻",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "一笔水墨 + 大量留白，讲“少即是多/专注/断舍离”。",
+  "prompt_template": "Zen sumi-e ink painting, extreme minimalism, [SUBJECT] painted in a few confident brush strokes, vast empty rice paper negative space, a small red seal stamp, ink bleeding into paper fibers, calm and meditative",
+  "variables": {
+   "SUBJECT": "主体，如 a single enso circle、a lone fisherman on still water"
+  }
+ },
+ {
+  "skill": "x-cover-cosmic-deity",
+  "name": "赛博巨神点描",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "海外 AI 观察第一：前景一人，两侧人海，远处巨型 AI 神祇。",
+  "prompt_template": "Epic monumental visionary pointillism artwork, monochrome ink engraving style, symmetrical one-point perspective: in the foreground [FIGURE] seen from behind, vast terraced hillsides on both sides filled with thousands of people working on glowing laptops, a colossal transcendent cybernetic deity on the horizon with piercing glowing eyes, halo of network nodes and microchips, ultra-dense stippling, no text",
+  "variables": {
+   "FIGURE": "前景人物，如 a lone figure in a hoodie"
+  }
+ },
+ {
+  "skill": "x-cover-retro-space-age",
+  "name": "复古太空时代海报",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 观察",
+   "AI 编程",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "50~60 年代 NASA 风格海报，乐观的未来主义。",
+  "prompt_template": "Retro 1960s space age travel poster, screen print texture, limited palette of teal, orange and cream, [SUBJECT] soaring toward a giant ringed planet, stylized stars, mid-century modern illustration, optimistic retrofuturism, large empty band at top for title",
+  "variables": {
+   "SUBJECT": "主体，如 a sleek rocket、a robot astronaut"
+  }
+ },
+ {
+  "skill": "x-cover-cyberpunk-neon",
+  "name": "赛博朋克霓虹街",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 观察",
+   "AI 编程",
+   "财经币圈"
+  ],
+  "zone": "both",
+  "hook": "雨夜霓虹、全息广告，讲 AI 渗透日常与高科技低生活。",
+  "prompt_template": "Cinematic cyberpunk street at night, rain-soaked pavement reflecting neon, towering buildings covered in holographic advertisements showing [HOLOGRAM], pedestrians with umbrellas, magenta and cyan neon, volumetric fog, low angle, anamorphic lens flare",
+  "variables": {
+   "HOLOGRAM": "全息广告内容，如 a giant AI assistant face、a crypto price ticker"
+  }
+ },
+ {
+  "skill": "x-cover-solarpunk-utopia",
+  "name": "太阳朋克乌托邦",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 观察",
+   "职场成长"
+  ],
+  "zone": "gl",
+  "hook": "绿色未来城市，讲 AI 带来的乐观终局。",
+  "prompt_template": "Solarpunk utopian city panorama, white organic curved architecture covered in lush greenery, solar sails and wind turbines, [DETAIL], people walking in sunlit gardens, bright warm daylight, optimistic hopeful future, highly detailed concept art",
+  "variables": {
+   "DETAIL": "未来细节，如 friendly robots tending rooftop gardens"
+  }
+ },
+ {
+  "skill": "x-cover-monolith-desert",
+  "name": "沙漠黑石碑",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "荒原中一块神秘巨石，讲“未知的新智能/奇点”。",
+  "prompt_template": "Minimalist sci-fi scene, a perfectly smooth black monolith standing in a vast empty desert, [FIGURES] at its base for scale, ultra wide shot, low horizon, golden hour long shadows, pristine and mysterious, cinematic 70mm film still",
+  "variables": {
+   "FIGURES": "尺度参照，如 a tiny group of scientists、a single child"
+  }
+ },
+ {
+  "skill": "x-cover-vaporwave-dream",
+  "name": "蒸汽波梦境",
+  "family": "D",
+  "family_name": "宇宙科幻与未来视觉",
+  "categories": [
+   "AI 创作",
+   "综合",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "粉紫渐变、希腊石膏像、网格地平线，互联网怀旧梗图感。",
+  "prompt_template": "Vaporwave aesthetic, pink and purple sunset gradient, neon grid floor stretching to the horizon, a classical greek marble bust wearing [PROP], floating retro computer windows, palm trees, CRT scanlines, nostalgic internet dreamscape",
+  "variables": {
+   "PROP": "雕像道具，如 VR goggles、pixel sunglasses"
+  }
+ },
+ {
+  "skill": "x-cover-newyorker-watercolor",
+  "name": "纽约客水彩寓言",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "财经币圈",
+   "做号变现",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "海外财经第一同款：墨线 + 水彩，构建“旧世界 vs 新世界”的戏剧冲突。",
+  "prompt_template": "Whimsical editorial watercolor and ink illustration, The New Yorker style line and wash. Street-level panorama: on the left [OLD_WORLD]; on the right [NEW_WORLD] bustling with cute friendly robots. Charming watercolor textures, clean organic pen outlines, cozy pastel tones, warm industrial light contrasted with soft daylight, witty business editorial art",
+  "variables": {
+   "OLD_WORLD": "传统场景，如 a quaint row of small-town storefronts labeled CPA, INSURANCE",
+   "NEW_WORLD": "新世界，如 an enormous open warehouse labeled THE BACK OFFICE"
+  }
+ },
+ {
+  "skill": "x-cover-excalidraw-doodle",
+  "name": "Excalidraw 粉彩涂鸦流程",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "零基础教程神器：手绘粉彩小图标 + 箭头流程，视觉门槛极低。",
+  "prompt_template": "Cute pastel tech workflow doodle, Excalidraw and Notion style explainer illustration, clean cream paper background. Left side reserved for handwritten bold header with a warm orange marker underline. Right side: a step-by-step horizontal pipeline of charming hand-drawn pastel icons: [STEPS], connected by sketchy arrows, looping back to a smiling laptop. Soft felt-tip outlines, mint, coral, lemon and baby blue highlights",
+  "variables": {
+   "STEPS": "4~5 个步骤图标，如 1. document stack, 2. cleaning broom, 3. smiling robot, 4. bar chart, 5. cloud upload"
+  }
+ },
+ {
+  "skill": "x-cover-handdrawn-infographic",
+  "name": "米白纸手绘信息图",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 观察",
+   "AI 编程",
+   "职场成长"
+  ],
+  "zone": "cn",
+  "hook": "米白纸 + 墨黑线 + 单一强调色，克制的手绘知识卡（与“手绘信息图”skill 同源）。",
+  "prompt_template": "Hand-drawn infographic on warm off-white sketch paper, crisp black ink linework only, one single accent color [ACCENT] used sparingly for highlights, sections containing [ELEMENTS], hand-lettered placeholder labels, arrows and brackets, generous whitespace, thoughtful editorial sketchnote, no gradients",
+  "variables": {
+   "ELEMENTS": "分区内容，如 a brain, a gear, a rising arrow, a magnifying glass",
+   "ACCENT": "强调色，如 vermilion red、cobalt blue"
+  }
+ },
+ {
+  "skill": "x-cover-ligne-claire",
+  "name": "清线派欧漫",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 观察",
+   "综合",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "丁丁历险记式的清晰线条与平涂，冒险故事感。",
+  "prompt_template": "Ligne claire European comic illustration, uniform clean black outlines, flat bright colors, no hatching, [SCENE], detailed background, adventurous storytelling mood, vintage Franco-Belgian bande dessinée aesthetic",
+  "variables": {
+   "SCENE": "叙事场景，如 a young explorer discovering a giant glowing AI core in an ancient temple"
+  }
+ },
+ {
+  "skill": "x-cover-stick-comic",
+  "name": "火柴人极简漫画",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "职场成长",
+   "AI 编程",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "xkcd 式火柴人 + 一句讽刺，程序员与互联网人秒懂。",
+  "prompt_template": "Minimalist stick figure webcomic, black pen lines on pure white, [SITUATION], expressive with minimal lines, three-panel horizontal layout, nerdy deadpan humor, empty speech bubbles for later text",
+  "variables": {
+   "SITUATION": "情境，如 staring at a bug at 3am while an AI agent fixes it instantly"
+  }
+ },
+ {
+  "skill": "x-cover-pixel-isometric",
+  "name": "等轴像素小世界",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "AI 创作"
+  ],
+  "zone": "both",
+  "hook": "像素风小办公室/小城市，游戏感带来亲和力。",
+  "prompt_template": "Isometric pixel art diorama, cozy [SCENE], tiny pixel characters busy working, small glowing monitors, plants and cables, limited warm palette, crisp pixel edges, retro game aesthetic, floating island on a solid background",
+  "variables": {
+   "SCENE": "场景，如 AI startup office、creator studio、server room"
+  }
+ },
+ {
+  "skill": "x-cover-gouache-storybook",
+  "name": "水粉绘本",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "职场成长",
+   "综合",
+   "AI 创作"
+  ],
+  "zone": "both",
+  "hook": "儿童绘本般的水粉笔触，温柔讲道理。",
+  "prompt_template": "Gouache children's picture book illustration, visible opaque brush strokes, [CHARACTER] in [PLACE], whimsical details, warm afternoon light, muted harmonious palette, cozy and gentle storytelling, textured paper",
+  "variables": {
+   "CHARACTER": "角色，如 a small fox learning to code",
+   "PLACE": "地点，如 a treehouse library"
+  }
+ },
+ {
+  "skill": "x-cover-sketchnote-page",
+  "name": "视觉笔记手账页",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "职场成长",
+   "AI 观察",
+   "做号变现"
+  ],
+  "zone": "cn",
+  "hook": "一页读书笔记式手账：标题框、气泡、小图、箭头，信息密而不乱。",
+  "prompt_template": "Visual sketchnote page on dotted notebook paper, central hand-drawn [TOPIC_ICON] with 6 surrounding note clusters, banners, speech bubbles, doodle icons, arrows and highlighter strokes in yellow and teal, handwritten placeholder squiggles, overhead flat lay of a real notebook with a pen beside it",
+  "variables": {
+   "TOPIC_ICON": "中心主题图标，如 a light bulb brain"
+  }
+ },
+ {
+  "skill": "x-cover-comic-panels",
+  "name": "美漫分格",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 观察",
+   "综合",
+   "做号变现"
+  ],
+  "zone": "gl",
+  "hook": "四格美漫讲一个转折故事，最后一格是反转。",
+  "prompt_template": "American comic book page, 2x2 panel grid with the last panel enlarged, bold ink outlines, Ben-Day dot shading, vibrant primary colors, four beats: [STORY], dynamic angles, empty speech balloons, action lines",
+  "variables": {
+   "STORY": "四格剧情，如 hero struggles with spreadsheets / discovers AI / automates everything / ends up bored on a beach"
+  }
+ },
+ {
+  "skill": "x-cover-ukiyoe-wave",
+  "name": "浮世绘大浪",
+  "family": "E",
+  "family_name": "手绘插画与漫画叙事",
+  "categories": [
+   "AI 观察",
+   "财经币圈",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "神奈川冲浪里式的大浪，隐喻“浪潮来了”。",
+  "prompt_template": "Ukiyo-e woodblock print in the style of the great wave, a towering wave made of [WAVE_MATTER] curling over tiny boats, claw-like foam, distant Mount Fuji, Prussian blue and cream palette, washi paper texture, Edo period aesthetic, no text",
+  "variables": {
+   "WAVE_MATTER": "浪的构成，如 binary code and data streams、gold coins"
+  }
+ },
+ {
+  "skill": "x-cover-apple-macro",
+  "name": "苹果发布会微距",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 创作",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "黑天鹅绒底上的硬件微距特写，极致质感。",
+  "prompt_template": "Apple product keynote commercial photography, extreme macro close-up, pitch-black velvet background. Left third: precision studio shot of [DEVICE], pristine optical glass reflections, antireflective coatings, sharp metallic edge specular highlights. Right side generous dark negative space. Strip softbox rim lighting, ultra-photorealistic, medium format camera look",
+  "variables": {
+   "DEVICE": "硬件主体，如 a smartphone camera module in deep matte burgundy titanium、an AI chip die"
+  }
+ },
+ {
+  "skill": "x-cover-tiltshift-diorama",
+  "name": "移轴微缩模型",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "职场成长",
+   "做号变现",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "小人偶 + 发光方块，把抽象概念做成桌面微缩剧场。",
+  "prompt_template": "Conceptual miniature diorama photography, tilt-shift macro lens, warm clean beige tabletop background. A tiny scale figurine [ACTION], connected by a single cable to a glowing [OBJECT]. Soft directional studio light, subsurface scattering, delicate contact shadows, shallow depth of field, whimsical yet sophisticated editorial metaphor",
+  "variables": {
+   "ACTION": "小人在做什么，如 in work clothes holding a laptop",
+   "OBJECT": "发光物，如 emerald green frosted glass cube"
+  }
+ },
+ {
+  "skill": "x-cover-clay-voxel-character",
+  "name": "黏土体素小人",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 创作",
+   "AI 编程",
+   "做号变现"
+  ],
+  "zone": "gl",
+  "hook": "海外 AI 创作第一同款：可爱的小方块人举着 App 图标奔跑。",
+  "prompt_template": "Ultra-minimalist graphic design cover, warm cream parchment background (#FAF8F5). Centered: a cute tiny rectangular clay voxel character running joyfully, holding up [ICON]. Generous empty space below for an elegant serif title. Scandinavian minimalism, Kinfolk magazine style, soft ambient occlusion, tactile matte texture",
+  "variables": {
+   "ICON": "举着的东西，如 a sleek violet rounded app icon with a white sine wave"
+  }
+ },
+ {
+  "skill": "x-cover-glass-3d-icon",
+  "name": "玻璃拟态 3D 图标",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "一个晶莹的 3D 玻璃图标居中漂浮，新产品/新功能发布首选。",
+  "prompt_template": "A single thick frosted glass 3D icon shaped like [ICON_SHAPE] floating in the center, internal refraction, chromatic dispersion rainbow edges, caustic light on the floor, soft [BG] gradient background, premium product launch aesthetic, octane render, minimal",
+  "variables": {
+   "ICON_SHAPE": "图标形状，如 a sparkle star、a speech bubble、a cursor arrow",
+   "BG": "背景渐变色"
+  }
+ },
+ {
+  "skill": "x-cover-isometric-room",
+  "name": "3D 等轴小房间",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "一间被剖开的等轴小房间，展示“一个人的工作流/一人公司”。",
+  "prompt_template": "Cute isometric 3D room cutaway, [ROOM], multiple glowing monitors, plants, shelves, cables, a small character working at the desk, soft clay-like materials, warm interior lamps with blue hour window light, Blender render, pastel palette, solid background",
+  "variables": {
+   "ROOM": "房间设定，如 a one-person AI company studio、a streamer bedroom"
+  }
+ },
+ {
+  "skill": "x-cover-blindbox-figure",
+  "name": "潮玩盲盒手办",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 创作",
+   "做号变现",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "把作者或概念做成潮玩盲盒，配包装盒，小红书 X 双平台都吃香。",
+  "prompt_template": "Collectible designer toy figure, chibi proportions, [CHARACTER] standing on a small display base next to its matching blind box packaging, glossy PVC and matte paint, pastel studio background, soft studio lighting, product photography, cute and premium",
+  "variables": {
+   "CHARACTER": "角色，如 a programmer with a hoodie and a tiny laptop"
+  }
+ },
+ {
+  "skill": "x-cover-papercraft-layers",
+  "name": "纸艺层叠",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 创作",
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "多层剪纸叠出纵深，手作温度 + 立体感。",
+  "prompt_template": "Layered paper cut art, multiple layers of colored cardstock creating depth, [SCENE], visible paper fibers and cut edges, soft shadows between layers, side lighting, handcrafted diorama, harmonious [PALETTE] palette",
+  "variables": {
+   "SCENE": "场景，如 a tunnel leading to a bright idea bulb",
+   "PALETTE": "配色"
+  }
+ },
+ {
+  "skill": "x-cover-brick-build",
+  "name": "积木搭建",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "塑料积木一块块搭出系统，隐喻“模块化/搭建”。",
+  "prompt_template": "Toy plastic building bricks, a half-built [STRUCTURE] with minifigure-style builders placing pieces, scattered bricks on a bright table, glossy ABS plastic with studs, shallow depth of field, playful macro photography, no brand logos",
+  "variables": {
+   "STRUCTURE": "搭建对象，如 a robot、a data pipeline with conveyor belts"
+  }
+ },
+ {
+  "skill": "x-cover-knolling-flatlay",
+  "name": "Knolling 平铺整理",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "AI 创作"
+  ],
+  "zone": "both",
+  "hook": "工具整齐 90 度排列俯拍，最适合“工具清单/装备推荐”。",
+  "prompt_template": "Knolling flat lay photography, perfectly organized [ITEMS] arranged at 90 degree angles with equal spacing on a [SURFACE], top-down view, soft overhead light, minimal shadows, satisfying order, clean product catalog aesthetic",
+  "variables": {
+   "ITEMS": "物品，如 laptop, keyboard, phone, notebook, coffee, headphones",
+   "SURFACE": "桌面，如 matte sand-colored table"
+  }
+ },
+ {
+  "skill": "x-cover-liquid-chrome",
+  "name": "液态铬金属",
+  "family": "F",
+  "family_name": "3D 微缩与商业产品质感",
+  "categories": [
+   "AI 创作",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "流动的液态金属雕塑，未来感品牌视觉。",
+  "prompt_template": "Liquid chrome abstract sculpture flowing into the shape of [SHAPE], mirror-like reflective surface with iridescent highlights, smooth fluid dynamics, dark gradient background, HDRI studio reflections, Y2K futuristic brand visual, 3D render",
+  "variables": {
+   "SHAPE": "塑形，如 a human head、an infinity loop"
+  }
+ },
+ {
+  "skill": "x-cover-kinfolk-serif",
+  "name": "Kinfolk 杂志极简",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "职场成长",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "gl",
+  "hook": "暖白底 + 一件小物 + 优雅衬线，生活方式杂志封面。",
+  "prompt_template": "Kinfolk magazine style cover, warm off-white background, a single [OBJECT] placed quietly on a linen surface, vast negative space, soft north window light, muted earthy palette, slow living aesthetic, elegant serif title area at the bottom",
+  "variables": {
+   "OBJECT": "物件，如 a ceramic cup and an open notebook"
+  }
+ },
+ {
+  "skill": "x-cover-swiss-poster",
+  "name": "瑞士海报",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "AI 观察",
+   "AI 编程",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "巨大字体与几何色块构成的瑞士海报，理性有力。",
+  "prompt_template": "Swiss style poster, asymmetric grid, huge bold grotesk letterforms as graphic elements, geometric [SHAPES] in red black and white, precise alignment, flat print, rational and powerful",
+  "variables": {
+   "SHAPES": "几何形，如 circles and diagonal bars"
+  }
+ },
+ {
+  "skill": "x-cover-penguin-classic",
+  "name": "经典平装书封",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "三段式经典平装书封，让一篇长文像一本必读书。",
+  "prompt_template": "Classic mid-century paperback book cover, horizontal tri-band layout, [COLOR] bands at top and bottom, cream central band reserved for title, small round emblem, worn paper texture, timeless literary design",
+  "variables": {
+   "COLOR": "色带颜色，如 orange (fiction)、green (crime)、blue (non-fiction)"
+  }
+ },
+ {
+  "skill": "x-cover-bauhaus-geometry",
+  "name": "包豪斯几何",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "AI 观察",
+   "AI 编程",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "红黄蓝三原色 + 圆方三角，构成感极强。",
+  "prompt_template": "Bauhaus geometric poster, primary colors red yellow blue with black and cream, circles squares and triangles composing [FIGURE], bold modernist composition, flat print texture",
+  "variables": {
+   "FIGURE": "构成形象，如 an abstract robot face、a rising sun"
+  }
+ },
+ {
+  "skill": "x-cover-magazine-cover",
+  "name": "时代周刊式杂志封面",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "AI 观察",
+   "职场成长",
+   "财经币圈"
+  ],
+  "zone": "gl",
+  "hook": "红框杂志封面 + 一个人物/物体，“年度人物”感。",
+  "prompt_template": "News magazine cover design, thick red border frame, [SUBJECT] centered in a dramatic portrait composition, serious tone, studio Rembrandt lighting, glossy paper, empty masthead area at top and cover lines placeholder",
+  "variables": {
+   "SUBJECT": "主体，如 a humanoid robot in a suit、a glowing AI chip"
+  }
+ },
+ {
+  "skill": "x-cover-type-only",
+  "name": "纯字体海报底",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "AI 观察",
+   "职场成长",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "纯字体主导：AI 只出质感底和装饰线，字后期排。",
+  "prompt_template": "Typographic poster background, mostly empty space reserved for a large headline, subtle [TEXTURE] texture, thin hairline frame, small corner marks, page number placeholder, registration marks, refined editorial print design, no illustration",
+  "variables": {
+   "TEXTURE": "底纹，如 uncoated paper、light concrete、newsprint"
+  }
+ },
+ {
+  "skill": "x-cover-japanese-ma",
+  "name": "日式留白（間）",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "职场成长",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "无印良品式的安静：一条线、一个点、大量空白。",
+  "prompt_template": "Japanese minimalist design with ma (negative space), a single small [OBJECT] placed at a third point, vast calm empty space, washi paper texture, soft diffused light, muted natural tones, quiet and refined",
+  "variables": {
+   "OBJECT": "物件，如 a stone、a branch、a tiny red dot"
+  }
+ },
+ {
+  "skill": "x-cover-neo-brutalism",
+  "name": "新粗野主义",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "做号变现",
+   "AI 编程",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "粗黑描边、硬阴影、高饱和色块，网页风的叛逆感。",
+  "prompt_template": "Neo-brutalism web design poster, thick black outlines, hard offset drop shadows, saturated flat colors (yellow, pink, mint), stacked cards and chunky buttons, [ELEMENTS], raw and playful, no gradients",
+  "variables": {
+   "ELEMENTS": "元素，如 a cursor arrow, a star sticker, a big checkbox"
+  }
+ },
+ {
+  "skill": "x-cover-dada-collage",
+  "name": "达达拼贴",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "AI 观察",
+   "综合",
+   "AI 创作"
+  ],
+  "zone": "both",
+  "hook": "撕纸、老照片、剪报的荒诞拼贴，讲“混乱时代”。",
+  "prompt_template": "Dada photomontage collage, vintage black and white photographs cut and rearranged, a figure with [ODD_ELEMENT], torn paper edges, tape, newspaper fragments, halftone, absurd surreal composition, muted palette with red accents",
+  "variables": {
+   "ODD_ELEMENT": "荒诞元素，如 a radio for a head、a robot arm"
+  }
+ },
+ {
+  "skill": "x-cover-constructivist",
+  "name": "构成主义宣传画",
+  "family": "G",
+  "family_name": "极简编辑与书封海报",
+  "categories": [
+   "做号变现",
+   "职场成长",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "斜线、红黑、高举的手，号召性极强。",
+  "prompt_template": "Russian constructivist propaganda poster, dynamic diagonal composition, red black and cream, [FIGURE] thrusting forward, radiating beams, bold geometric shapes, photomontage elements, empty diagonal band for slogan",
+  "variables": {
+   "FIGURE": "主体，如 a worker holding a giant glowing laptop"
+  }
+ },
+ {
+  "skill": "x-cover-cinematic-still",
+  "name": "电影剧照",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "职场成长",
+   "综合",
+   "AI 观察"
+  ],
+  "zone": "both",
+  "hook": "宽银幕电影截图感，一个画面就是一个故事。",
+  "prompt_template": "Cinematic film still, anamorphic widescreen, [SCENE], character at an emotional turning point, motivated practical lighting, teal and orange color grade, 35mm film grain, shallow depth of field, Arri Alexa look",
+  "variables": {
+   "SCENE": "场景，如 a young founder alone in an empty office at night facing a wall of screens"
+  }
+ },
+ {
+  "skill": "x-cover-rembrandt-portrait",
+  "name": "伦勃朗光肖像",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "暗调伦勃朗光人像，适合人物访谈、个人故事。",
+  "prompt_template": "Low-key portrait photography, Rembrandt lighting with triangle of light on cheek, [PERSON] in contemplative three-quarter pose, deep black background, realistic skin texture, 85mm lens, shallow depth of field, timeless",
+  "variables": {
+   "PERSON": "人物，如 a middle-aged engineer"
+  }
+ },
+ {
+  "skill": "x-cover-street-leica",
+  "name": "徕卡街拍",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "职场成长",
+   "综合",
+   "做号变现"
+  ],
+  "zone": "gl",
+  "hook": "黑白街头抓拍，决定性瞬间，真实人生感。",
+  "prompt_template": "Black and white street photography, 35mm rangefinder look, decisive moment: [MOMENT], strong geometric shadows, high contrast Tri-X film grain, candid and authentic",
+  "variables": {
+   "MOMENT": "瞬间，如 a commuter staring at their phone under a huge billboard"
+  }
+ },
+ {
+  "skill": "x-cover-portra-film",
+  "name": "Portra 胶片日常",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "职场成长",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "温暖胶片色调的日常瞬间，温柔有温度。",
+  "prompt_template": "Kodak Portra 400 film photograph, warm natural skin tones, soft grain, [SCENE], candid everyday moment, golden afternoon light, nostalgic and gentle",
+  "variables": {
+   "SCENE": "场景，如 a person reading on a sunlit balcony with a laptop"
+  }
+ },
+ {
+  "skill": "x-cover-desk-flatlay",
+  "name": "工作台俯拍",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "真实桌面俯拍：电脑、咖啡、笔记，“我是怎么工作的”。",
+  "prompt_template": "Top-down photo of a real workspace desk, [ITEMS], laptop screen showing [SCREEN] as blurred UI, morning side window light, natural shadows, authentic and lived-in, editorial lifestyle photography",
+  "variables": {
+   "ITEMS": "桌面物品，如 coffee, notebook, phone, glasses",
+   "SCREEN": "屏幕内容，如 a chat with an AI assistant"
+  }
+ },
+ {
+  "skill": "x-cover-documentary-candid",
+  "name": "纪实抓拍",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "做号变现",
+   "职场成长",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "工作现场的纪实瞬间，讲“我真的做到了”的过程感。",
+  "prompt_template": "Documentary photojournalism, candid shot of [SCENE], person deeply focused, environmental context visible, available light, natural grain, honest and gritty, 28mm lens",
+  "variables": {
+   "SCENE": "场景，如 a small team packing orders late at night in a cramped warehouse"
+  }
+ },
+ {
+  "skill": "x-cover-golden-silhouette",
+  "name": "黄金时刻剪影",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "职场成长",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "逆光剪影站在山顶/海边，“出发/远方/新阶段”。",
+  "prompt_template": "Golden hour silhouette, [FIGURE] standing on a ridge facing the setting sun, sky gradient from amber to violet, lens flare, rule of thirds, vast sky for title, hopeful and contemplative",
+  "variables": {
+   "FIGURE": "剪影，如 a hiker with a backpack"
+  }
+ },
+ {
+  "skill": "x-cover-night-long-exposure",
+  "name": "夜城长曝光",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "AI 观察",
+   "财经币圈",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "城市光轨与高楼，讲速度、规模和城市里的奋斗。",
+  "prompt_template": "Long exposure night cityscape of [CITY] from a high vantage point, streaming light trails of traffic, glowing skyscrapers, blue hour sky, wet reflective streets, sense of speed and scale",
+  "variables": {
+   "CITY": "城市，如 Shanghai Lujiazui、Shenzhen、Tokyo"
+  }
+ },
+ {
+  "skill": "x-cover-studio-product-white",
+  "name": "白底产品棚拍",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "AI 创作",
+   "做号变现",
+   "账号支付"
+  ],
+  "zone": "both",
+  "hook": "纯白无缝背景的产品照，电商感和“清单感”。",
+  "prompt_template": "Studio product photography on pure white seamless background, [PRODUCT] in sharp focus, clean reflections, large softbox and top light, soft contact shadow, commercial catalog quality",
+  "variables": {
+   "PRODUCT": "产品，如 a smartphone and a SIM card、a physical credit card mockup without numbers"
+  }
+ },
+ {
+  "skill": "x-cover-drone-aerial",
+  "name": "无人机航拍",
+  "family": "H",
+  "family_name": "摄影与电影剧照",
+  "categories": [
+   "AI 观察",
+   "职场成长",
+   "财经币圈"
+  ],
+  "zone": "both",
+  "hook": "正俯视航拍的几何图案，“上帝视角看局势”。",
+  "prompt_template": "Top-down drone aerial photography, [SCENE] forming striking geometric patterns, long shadows from low sun, high detail, abstract yet real",
+  "variables": {
+   "SCENE": "场景，如 thousands of shipping containers in a port、solar panel fields"
+  }
+ },
+ {
+  "skill": "x-cover-big-claim-poster",
+  "name": "大字报痛点封面底",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "做号变现",
+   "账号支付",
+   "AI 编程"
+  ],
+  "zone": "cn",
+  "hook": "中文区主力：大字占 50%，右侧一个证据物件。AI 出底图，字后期排。",
+  "prompt_template": "Clean bold banner background, left 55% solid [BG] color area completely empty for large headline text, right side a single striking 3D [PROOF] with a subtle glow, high contrast, modern Chinese social media cover style, minimal decoration",
+  "variables": {
+   "BG": "底色，如 deep navy、bright yellow、black",
+   "PROOF": "证据物件，如 a stack of gold coins、a shield with a checkmark、a laptop"
+  }
+ },
+ {
+  "skill": "x-cover-before-after-income",
+  "name": "收益战报对比",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "做号变现",
+   "财经币圈"
+  ],
+  "zone": "cn",
+  "hook": "左边 0 右边 N 的战报式对比，数字后期叠加。",
+  "prompt_template": "Two-panel banner, left panel shows [BEFORE] in dull gray, right panel shows [AFTER] in vibrant green and gold, a big bold arrow between them, empty label areas above each panel for numbers, clean flat 3D style, high contrast",
+  "variables": {
+   "BEFORE": "之前，如 an empty wallet and a flat line chart",
+   "AFTER": "之后，如 a rising chart with stacked gold coins"
+  }
+ },
+ {
+  "skill": "x-cover-three-step-loop",
+  "name": "三步闭环",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 编程",
+   "做号变现",
+   "AI 创作"
+  ],
+  "zone": "cn",
+  "hook": "1→2→3 三个圆圈步骤 + 回环箭头，承诺“照做就行”。",
+  "prompt_template": "Three large circles in a horizontal row connected by arrows with a loop arrow returning from the last to the first, inside each circle an icon: [ICONS], big numbers 1 2 3, clean flat vector, [COLOR] accent on white, top area empty for headline",
+  "variables": {
+   "ICONS": "三步图标，如 a magnifying glass, a robot, a dollar sign",
+   "COLOR": "主色"
+  }
+ },
+ {
+  "skill": "x-cover-storyboard-grid",
+  "name": "分镜宫格",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 创作"
+  ],
+  "zone": "cn",
+  "hook": "中文区 AI 创作第一同款：上半大片画面，下半 12 格分镜手稿。",
+  "prompt_template": "Split composition movie production banner. Top half: epic cinematic scene, [HERO_SCENE], dramatic volumetric god rays, rim light. Bottom half: a neat 12-frame director storyboard grid with black and white pencil sketch animatics, camera movement arrows, focal length notes, ultra detailed",
+  "variables": {
+   "HERO_SCENE": "上半主场景，如 a female wuxia warrior performing a flying kick inside an ancient wooden temple hall"
+  }
+ },
+ {
+  "skill": "x-cover-logo-wall",
+  "name": "工具矩阵 Logo 墙",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "做号变现"
+  ],
+  "zone": "cn",
+  "hook": "“N 个工具全测评”：整齐的 App 图标网格，中间一个高亮。",
+  "prompt_template": "Grid wall of dozens of glossy rounded app icons with abstract generic symbols (no real brand logos), soft pastel colors, the central icon [HERO] enlarged and glowing, clean 3D render, top band empty for headline",
+  "variables": {
+   "HERO": "中心高亮图标，如 a sparkle star icon、a robot icon"
+  }
+ },
+ {
+  "skill": "x-cover-toc-card",
+  "name": "教程目录卡",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "职场成长"
+  ],
+  "zone": "cn",
+  "hook": "像一本书的目录页：章节条一字排开，承诺“系统全面”。",
+  "prompt_template": "Course table of contents layout, right side a vertical stack of [N] rounded chapter bars each with a numbered circle on the left and a small arrow on the right, text placeholder lines, left side empty for title, clean white cards on light gray, subtle shadows, modern edtech UI",
+  "variables": {
+   "N": "章节数，建议 5~8"
+  }
+ },
+ {
+  "skill": "x-cover-warning-pitfall",
+  "name": "避坑警示",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "账号支付",
+   "AI 编程",
+   "做号变现"
+  ],
+  "zone": "cn",
+  "hook": "红黄警示 + 叉号/路障，避坑恐惧最强触发。",
+  "prompt_template": "Warning themed banner, yellow and black hazard stripes, a 3D [HAZARD] with a bold red X mark, traffic cones and caution tape, dramatic side light, high contrast, left area empty for headline, urgent but clean",
+  "variables": {
+   "HAZARD": "风险物件，如 a locked account padlock、a broken credit card、a banned laptop"
+  }
+ },
+ {
+  "skill": "x-cover-qa-bubbles",
+  "name": "问答对话气泡",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 观察",
+   "职场成长",
+   "做号变现"
+  ],
+  "zone": "cn",
+  "hook": "左问右答的聊天气泡，适合“答疑/真相/你问我答”。",
+  "prompt_template": "Chat conversation layout banner, large speech bubbles alternating left and right, left gray bubble with a big question mark, right [COLOR] bubble with an answer placeholder, small avatar circles, clean messaging UI aesthetic, soft shadows, empty bubble space for text",
+  "variables": {
+   "COLOR": "回答气泡颜色"
+  }
+ },
+ {
+  "skill": "x-cover-screenshot-proof",
+  "name": "截图证据堆叠",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "做号变现",
+   "账号支付",
+   "AI 编程"
+  ],
+  "zone": "cn",
+  "hook": "多张截图叠放带红圈标注，“有图有真相”。",
+  "prompt_template": "Stack of 3 to 4 overlapping app screenshot cards at slight angles, showing [SCREENS] as blurred UI, red hand-drawn circles and arrows highlighting key spots, drop shadows, clean background, proof-of-results social media style",
+  "variables": {
+   "SCREENS": "截图类型，如 analytics dashboards and payment notifications"
+  }
+ },
+ {
+  "skill": "x-cover-cheatsheet-table",
+  "name": "速查表",
+  "family": "I",
+  "family_name": "中文区强文字转化",
+  "categories": [
+   "AI 编程",
+   "AI 创作",
+   "账号支付"
+  ],
+  "zone": "cn",
+  "hook": "一张整齐的速查表/参数表，“收藏起来慢慢看”。",
+  "prompt_template": "Clean cheatsheet table infographic, [ROWS] rows with a [COLOR] header row, alternating light row shading, small icons and checkmarks in some cells, text placeholder bars, rounded card container, crisp vector, bookmark-worthy reference design",
+  "variables": {
+   "ROWS": "行数",
+   "COLOR": "表头颜色"
+  }
+ },
+ {
+  "skill": "x-cover-anime-sky",
+  "name": "动画天空背景",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "职场成长",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "通透的动画天空与云，青春、希望、出发。",
+  "prompt_template": "Anime film background art, luminous vast sky with towering cumulonimbus clouds, sun rays piercing through, [GROUND] at the bottom, highly detailed hand-painted background, saturated blues, lens flare, nostalgic and hopeful, no characters",
+  "variables": {
+   "GROUND": "地面，如 a rural train platform、a rooftop with a laptop"
+  }
+ },
+ {
+  "skill": "x-cover-cozy-anime-room",
+  "name": "日系治愈书房",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "职场成长",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "阳光书房里的猫咪和电脑，治愈、亲和。",
+  "prompt_template": "Cozy anime illustration, sunlit study room with bookshelves and plants, [CHARACTER] working at a computer, a cat napping on the desk, warm afternoon light and dappled shadows, soft watercolor-like coloring, peaceful slice-of-life",
+  "variables": {
+   "CHARACTER": "角色，如 a girl with headphones、a sleepy programmer"
+  }
+ },
+ {
+  "skill": "x-cover-guochao",
+  "name": "国潮插画",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "做号变现",
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "传统纹样 + 高饱和撞色，国潮热度高。",
+  "prompt_template": "Chinese guochao trendy illustration, [SUBJECT] surrounded by auspicious clouds, wave patterns and lanterns, vibrant red, jade green and gold, flat colors with gold outlines, bold contemporary take on traditional motifs",
+  "variables": {
+   "SUBJECT": "主体，如 a robot wearing a lion dance head"
+  }
+ },
+ {
+  "skill": "x-cover-shanshui-ink",
+  "name": "青绿山水",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "AI 创作",
+   "综合",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "千里江山式青绿山水，东方宏大叙事。",
+  "prompt_template": "Traditional Chinese blue-green landscape painting, panoramic scroll, layered mountains in mineral azurite and malachite, mist and clouds, [DETAIL], silk texture, majestic and serene",
+  "variables": {
+   "DETAIL": "点睛细节，如 a tiny glowing server pavilion on a peak"
+  }
+ },
+ {
+  "skill": "x-cover-wuxia-cinematic",
+  "name": "武侠电影大片",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "古风武侠动作大片，AI 视频/影视创作长文高转化。",
+  "prompt_template": "Epic cinematic Chinese wuxia action scene, [ACTION], flowing silk robes and hair in motion, ancient wooden architecture, volumetric god rays, golden rim light, dust particles, low angle, Unreal Engine 5 render style",
+  "variables": {
+   "ACTION": "动作场面，如 a swordswoman leaping across rooftops in the rain"
+  }
+ },
+ {
+  "skill": "x-cover-cel-shaded-anime",
+  "name": "赛璐璐动画角色",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "AI 创作",
+   "做号变现"
+  ],
+  "zone": "both",
+  "hook": "赛璐璐上色角色立绘，二次元受众友好。",
+  "prompt_template": "Anime key visual, cel shaded [CHARACTER] in a dynamic pose, clean line art, two-tone shading, vibrant colors, simple gradient background with speed lines, right-weighted composition leaving left space for title",
+  "variables": {
+   "CHARACTER": "角色，如 a cyber girl with a holographic tablet"
+  }
+ },
+ {
+  "skill": "x-cover-minhwa-folk",
+  "name": "韩国民画",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "AI 创作",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "韩国民画的虎与喜鹊，色彩明快且有民俗趣味。",
+  "prompt_template": "Korean minhwa folk painting, a humorous [ANIMAL] with a magpie in a pine tree, flat decorative composition, bright mineral colors on hanji paper, naive charming style",
+  "variables": {
+   "ANIMAL": "动物，如 tiger、a robot tiger（反差）"
+  }
+ },
+ {
+  "skill": "x-cover-chinese-poster-retro",
+  "name": "老上海月份牌",
+  "family": "J",
+  "family_name": "动漫与东方美学",
+  "categories": [
+   "做号变现",
+   "财经币圈",
+   "综合"
+  ],
+  "zone": "cn",
+  "hook": "民国月份牌广告画，复古商业感强。",
+  "prompt_template": "1930s Shanghai calendar poster advertisement, [CHARACTER] elegantly holding [PRODUCT], art deco ornamental border, soft airbrushed watercolor skin, pastel palette, vintage commercial art",
+  "variables": {
+   "CHARACTER": "人物，如 an elegant lady in qipao",
+   "PRODUCT": "手持物，如 a smartphone"
+  }
+ },
+ {
+  "skill": "x-cover-surreal-scale",
+  "name": "巨物错位",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "AI 观察",
+   "综合",
+   "职场成长"
+  ],
+  "zone": "gl",
+  "hook": "日常物件放大成建筑尺度，人变得极小。",
+  "prompt_template": "Surreal scale illustration, a gigantic [OBJECT] towering over [PLACE], tiny people looking up at it, realistic materials, long shadows, dreamlike yet photoreal, conceptual art",
+  "variables": {
+   "OBJECT": "巨物，如 smartphone、coffee cup、cursor arrow",
+   "PLACE": "场景，如 a city square"
+  }
+ },
+ {
+  "skill": "x-cover-double-exposure",
+  "name": "双重曝光",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "人物剪影里装着另一个世界，讲“内心/思维”。",
+  "prompt_template": "Double exposure portrait, silhouette of a person's profile filled with [INNER_WORLD], seamless blend, white background, minimal and poetic",
+  "variables": {
+   "INNER_WORLD": "剪影内部，如 a forest and a winding road、a city at night"
+  }
+ },
+ {
+  "skill": "x-cover-endless-maze",
+  "name": "无尽迷宫",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "俯视迷宫中的人，讲“困局与出口”。",
+  "prompt_template": "Top-down view of a vast intricate maze, a single tiny [FIGURE] in the middle, one glowing exit far away, long shadows from low sun, minimal palette, conceptual metaphor of finding a way out",
+  "variables": {
+   "FIGURE": "人物，如 a person in a red coat"
+  }
+ },
+ {
+  "skill": "x-cover-chess-strategy",
+  "name": "棋局博弈",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "财经币圈",
+   "AI 观察",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "棋盘与棋子，讲战略、博弈、大厂竞争。",
+  "prompt_template": "Dramatic chess scene, low angle close to the board, [PIECES] facing off, one piece toppled, marble and metal textures, single dramatic top light, dark background, shallow depth of field, strategic tension",
+  "variables": {
+   "PIECES": "棋子设定，如 a robot king versus a human king"
+  }
+ },
+ {
+  "skill": "x-cover-iceberg",
+  "name": "冰山模型",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "AI 观察",
+   "做号变现",
+   "职场成长"
+  ],
+  "zone": "both",
+  "hook": "水面上一小角，水下巨大，讲“你看不到的部分”。",
+  "prompt_template": "Iceberg cross-section illustration, small tip above the waterline, massive hidden body below, [HIDDEN] embedded inside the underwater ice, deep blue gradient ocean, light rays filtering down, clean editorial 3D style",
+  "variables": {
+   "HIDDEN": "水下隐藏物，如 gears, data, servers and people working"
+  }
+ },
+ {
+  "skill": "x-cover-portal-door",
+  "name": "旷野中的门",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察",
+   "综合"
+  ],
+  "zone": "both",
+  "hook": "荒野里一扇发光的门，通往另一个世界——“新机会”。",
+  "prompt_template": "Surreal landscape, a lone open door standing in an empty [LANDSCAPE], through the door a glimpse of [OTHER_WORLD] spilling light onto the ground, a person standing before it, cinematic, conceptual",
+  "variables": {
+   "LANDSCAPE": "旷野，如 desert、snowfield",
+   "OTHER_WORLD": "门内世界，如 a lush green spring、a neon city"
+  }
+ },
+ {
+  "skill": "x-cover-mirror-reflection",
+  "name": "镜中另一个自己",
+  "family": "K",
+  "family_name": "超现实概念隐喻",
+  "categories": [
+   "职场成长",
+   "AI 观察"
+  ],
+  "zone": "gl",
+  "hook": "镜子里的倒影不一样，讲“AI 分身/理想自我”。",
+  "prompt_template": "Conceptual photo, a person looking into a tall mirror, but the reflection shows [REFLECTION], moody side light, minimal room, cinematic, thought-provoking",
+  "variables": {
+   "REFLECTION": "倒影，如 a robot version of themselves、their older successful self"
+  }
+ }
+]

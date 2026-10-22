@@ -1,0 +1,615 @@
+{
+ "source": "https://xbangdan.com/articles/",
+ "articles": 3917,
+ "covers": 3535,
+ "by_zone_category": [
+  {
+   "zone": "cn",
+   "category": "AI 编程",
+   "articles": 603,
+   "covers": 591,
+   "top5": [
+    {
+     "title": "万字长文｜Codex 从入门到精通",
+     "author": "Miles Ma",
+     "handle": "miles_mazy",
+     "fav": 11570
+    },
+    {
+     "title": "手把手教你用 Opus 5.5 / Astra + Tripo 制作 3D 游戏",
+     "author": "Sac",
+     "handle": "Saccc_c",
+     "fav": 7708
+    },
+    {
+     "title": "万字长文｜Grok Bot 从入门到精通",
+     "author": "金尘马",
+     "handle": "jinchenma_ai",
+     "fav": 4209
+    },
+    {
+     "title": "Muse 上手保姆级教程：从登录到完成第一个任务",
+     "author": "蓝哥AI",
+     "handle": "0xlangeai",
+     "fav": 3845
+    },
+    {
+     "title": "千问 Qwen3.8 27B 本地化部署：小白保姆级教程",
+     "author": "Adrian Punk",
+     "handle": "AdrianPunk115",
+     "fav": 3498
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "账号支付",
+   "articles": 405,
+   "covers": 380,
+   "top5": [
+    {
+     "title": "被 Claude 封了 N 次之后，我终于搞定了全套海外基础设施（出海必备保姆级教程）",
+     "author": "余温",
+     "handle": "gkxspace",
+     "fav": 7690
+    },
+    {
+     "title": "存款不到 100 万的年轻人，请直接照做这张生存清单",
+     "author": "在香港的宁夏三娃老父亲阿星",
+     "handle": "xingjia520",
+     "fav": 6133
+    },
+    {
+     "title": "把这篇文章丢给 Grok Bot：给你注册 Claude，搭配 Orca + Tailscale…",
+     "author": "Asa",
+     "handle": "app_sail",
+     "fav": 4462
+    },
+    {
+     "title": "任何人都能复刻的Claude注册、订阅和过KYC防封号教程",
+     "author": "逸尘",
+     "handle": "gengdaJ",
+     "fav": 3639
+    },
+    {
+     "title": "🔥 Muse 终极玩法：全自动撸 Claude 账号！！「完整教程」",
+     "author": "Lonely",
+     "handle": "Lonely__MH",
+     "fav": 3006
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "做号变现",
+   "articles": 373,
+   "covers": 368,
+   "top5": [
+    {
+     "title": "出海系列｜从 0 到 1 出海赚美金指南",
+     "author": "Miles Ma",
+     "handle": "miles_mazy",
+     "fav": 3778
+    },
+    {
+     "title": "万字长文开源X自媒体增长指南（2026.09版）",
+     "author": "Roland.W",
+     "handle": "rwayne",
+     "fav": 3268
+    },
+    {
+     "title": "别他妈闭门造车了！产品出海第一步：选择比努力重要 100 倍，快速完成比完美重要 1000 倍",
+     "author": "良竹",
+     "handle": "liangzhu_AI",
+     "fav": 3116
+    },
+    {
+     "title": "X(推特)账号运营从0到1：万字实操指南",
+     "author": "动物园园长",
+     "handle": "weiyux2021",
+     "fav": 2916
+    },
+    {
+     "title": "为什么要坚持做自媒体：真正值钱的，可能不是流量",
+     "author": "云比云",
+     "handle": "yunbiyun",
+     "fav": 2816
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "AI 创作",
+   "articles": 343,
+   "covers": 340,
+   "top5": [
+    {
+     "title": "我把 463 个 AI 视频做成了 Skill 和提示语模版，全都开源！",
+     "author": "卡尔的AI沃茨",
+     "handle": "aiwarts",
+     "fav": 5231
+    },
+    {
+     "title": "本地大模型当导演，从此看片不求人",
+     "author": "黄小木",
+     "handle": "ai_xiaomu",
+     "fav": 4842
+    },
+    {
+     "title": "huashu-art-motion发布！可能是最有审美的动画skill。",
+     "author": "花叔",
+     "handle": "AlchainHust",
+     "fav": 4003
+    },
+    {
+     "title": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+     "author": "数字生命卡兹克",
+     "handle": "Khazix0918",
+     "fav": 3931
+    },
+    {
+     "title": "Codex剪辑第三弹：2条视频接下近四位数商单，知识类视频剪辑方法全公开（万字长文）",
+     "author": "xilo",
+     "handle": "xilo2991",
+     "fav": 3896
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "财经币圈",
+   "articles": 428,
+   "covers": 319,
+   "top5": [
+    {
+     "title": "AI Semiconductor Endgame 2026 (III)",
+     "author": "fin",
+     "handle": "fi56622380",
+     "fav": 7071
+    },
+    {
+     "title": "我的投资理财书单",
+     "author": "硅谷居士",
+     "handle": "SVScholar",
+     "fav": 1477
+    },
+    {
+     "title": "nico^ ^ 美股文章合集 持续更新",
+     "author": "nico^ ^",
+     "handle": "staypinkyup",
+     "fav": 1256
+    },
+    {
+     "title": "花费了上百刀，十几亿 Token ，我们的纳指/标普蓝皮书终于问世了！！！",
+     "author": "WiseInvest",
+     "handle": "WiseInvest513",
+     "fav": 1144
+    },
+    {
+     "title": "机会来了！2026年10月，人生发财靠康波",
+     "author": "看不懂的SOL",
+     "handle": "DtDt666",
+     "fav": 1002
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "AI 观察",
+   "articles": 269,
+   "covers": 263,
+   "top5": [
+    {
+     "title": "Jev 模型从 0 到 1 小白教程",
+     "author": "黄小木",
+     "handle": "ai_xiaomu",
+     "fav": 2341
+    },
+    {
+     "title": "拿到 Jev，然后呢？ Jev 到底能干什么：剔掉虚火之后的一份真实落地清单",
+     "author": "huangserva",
+     "handle": "servasyy_ai",
+     "fav": 1740
+    },
+    {
+     "title": "LLM 为什么缓存 K 和 V，却通常不缓存 Q？",
+     "author": "Dongxi 东锡 NLP",
+     "handle": "dongxi_nlp",
+     "fav": 1400
+    },
+    {
+     "title": "小白AI入门必学的：66 个 AI 高频词（人话版）",
+     "author": "Adrian Punk",
+     "handle": "AdrianPunk115",
+     "fav": 1263
+    },
+    {
+     "title": "大模型学习地铁图：从 Transformer 到今天的主流大模型",
+     "author": "纳米AI",
+     "handle": "antiAIvo",
+     "fav": 1254
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "职场成长",
+   "articles": 283,
+   "covers": 254,
+   "top5": [
+    {
+     "title": "万字长文（含配图），讲清楚育儿的第一性原理",
+     "author": "龙海",
+     "handle": "longhaiqwe123",
+     "fav": 4500
+    },
+    {
+     "title": "最近大火的 AI 岗位，FDE 到底是干嘛的？普通人怎么上车？",
+     "author": "Adrian Punk",
+     "handle": "AdrianPunk115",
+     "fav": 4387
+    },
+    {
+     "title": "两个月/每天2小时/不报班用Claudecode自学/雅思6到7.5分",
+     "author": "yan（约会版）",
+     "handle": "ZhanlinYan74392",
+     "fav": 4341
+    },
+    {
+     "title": "如何在六个月内成为一名机器人工程师（中文版，含资源）",
+     "author": "yishan",
+     "handle": "tspy",
+     "fav": 3842
+    },
+    {
+     "title": "销售羞耻症克服指南",
+     "author": "汪仔",
+     "handle": "wangzaimedia",
+     "fav": 2856
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "职场成长",
+   "articles": 302,
+   "covers": 192,
+   "top5": [
+    {
+     "title": "想要成功，你得有点“妄想症”",
+     "author": "DAN KOE",
+     "handle": "thedankoe",
+     "fav": 31359
+    },
+    {
+     "title": "如何开启一段全新的人生",
+     "author": "DAN KOE",
+     "handle": "thedankoe",
+     "fav": 26607
+    },
+    {
+     "title": "当你意识到变富有其实是技能问题时，你的人生将彻底改变",
+     "author": "Devon Canup",
+     "handle": "devoncnp",
+     "fav": 16571
+    },
+    {
+     "title": "颈肩酸痛的原因竟是呼吸方式｜原因与应对方法",
+     "author": "さき｜自律神経を整えるヒント",
+     "handle": "saki_saku22",
+     "fav": 14974
+    },
+    {
+     "title": "到底该如何真正找到一份工作（不搞虚的）",
+     "author": "spidey",
+     "handle": "lochan_twt",
+     "fav": 12136
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "AI 编程",
+   "articles": 184,
+   "covers": 178,
+   "top5": [
+    {
+     "title": "用Jev构建Harness",
+     "author": "Sydney Runkle",
+     "handle": "sydneyrunkle",
+     "fav": 13742
+    },
+    {
+     "title": "如何用自己的数据微调小型LLM（完整指南）",
+     "author": "Rahul",
+     "handle": "sairahul1",
+     "fav": 10668
+    },
+    {
+     "title": "使用Claude Code：合理分配你的算力投入",
+     "author": "Thariq",
+     "handle": "trq212",
+     "fav": 10166
+    },
+    {
+     "title": "Jev工程：从零搭建并使用AI新大脑的完整十步路线图",
+     "author": "codila",
+     "handle": "0xCodila",
+     "fav": 8092
+    },
+    {
+     "title": "AI 工程技能图谱：塑造构建过程",
+     "author": "Andrew Ng",
+     "handle": "AndrewYNg",
+     "fav": 7405
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "AI 观察",
+   "articles": 160,
+   "covers": 151,
+   "top5": [
+    {
+     "title": "超级智能时代的内部风险模型",
+     "author": "Satya Nadella",
+     "handle": "satyanadella",
+     "fav": 21627
+    },
+    {
+     "title": "如果通用人工智能已经到来，而它是由……孩子构成的呢？",
+     "author": "Pascio",
+     "handle": "IAmPascio",
+     "fav": 18714
+    },
+    {
+     "title": "AI原生服务：一个千亿美元级别的机会",
+     "author": "GREG ISENBERG",
+     "handle": "gregisenberg",
+     "fav": 13890
+    },
+    {
+     "title": "为什么我正在打造Muse",
+     "author": "Alexandr Wang",
+     "handle": "alexandr_wang",
+     "fav": 10391
+    },
+    {
+     "title": "彻底讲清楚Jev",
+     "author": "Akshay 🚀",
+     "handle": "akshay_pachaar",
+     "fav": 10359
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "other",
+   "articles": 170,
+   "covers": 129,
+   "top5": [
+    {
+     "title": "10月短剧整理",
+     "author": "기니피기",
+     "handle": "ginipigi",
+     "fav": 19725
+    },
+    {
+     "title": "向大家报告一件事情，并有一事相求",
+     "author": "まんが日本昔ばなし（公式）",
+     "handle": "aikikakucenter",
+     "fav": 10666
+    },
+    {
+     "title": "银子○亡路线公开",
+     "author": "白鳥士郎",
+     "handle": "nankagun",
+     "fav": 7130
+    },
+    {
+     "title": "看完《直到T恤晾干为止》后，由衷感到厌恶的理由",
+     "author": "柴田耕佑｜ONE-INCH代表",
+     "handle": "oneinch_ceo",
+     "fav": 6258
+    },
+    {
+     "title": "伊朗伊斯兰革命卫队致美国人民的一封信（2026年9月29日）",
+     "author": "COMBATE |🇵🇷",
+     "handle": "upholdreality",
+     "fav": 4418
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "财经币圈",
+   "articles": 138,
+   "covers": 127,
+   "top5": [
+    {
+     "title": "5 万亿美元的机遇：AI 资产整合并购",
+     "author": "GREG ISENBERG",
+     "handle": "gregisenberg",
+     "fav": 16054
+    },
+    {
+     "title": "“隐形”熊市：一次历史性的机会。",
+     "author": "The Kobeissi Letter",
+     "handle": "KobeissiLetter",
+     "fav": 8125
+    },
+    {
+     "title": "终极模因币交易指南：如何在2026年非内幕人士的情况下赚取100倍收益",
+     "author": "𝗰𝘆𝗰𝗹𝗼𝗽",
+     "handle": "nobrainflip",
+     "fav": 7746
+    },
+    {
+     "title": "如何使用Jev搭建一套全天候高频交易系统",
+     "author": "Roan",
+     "handle": "RohOnChain",
+     "fav": 6281
+    },
+    {
+     "title": "琳达·拉什克（Linda Raschke）的 12 条技术交易原则（12 Technical T…",
+     "author": "Ian Lee",
+     "handle": "tmmrwseoul",
+     "fav": 4824
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "做号变现",
+   "articles": 116,
+   "covers": 107,
+   "top5": [
+    {
+     "title": "完整课程：如何将兴趣转化为赚钱的生活方式型事业",
+     "author": "DAN KOE",
+     "handle": "thedankoe",
+     "fav": 12236
+    },
+    {
+     "title": "如何高效运用 Claude Opus 5.5 做 SEO，效果好到令人难以置信",
+     "author": "Nicholas Dulait",
+     "handle": "NicholasDulait",
+     "fav": 8565
+    },
+    {
+     "title": "人们用 GPT-6 Astra 赚钱的10种方式",
+     "author": "Rahul",
+     "handle": "sairahul1",
+     "fav": 7891
+    },
+    {
+     "title": "网红已死，体验时代已来临",
+     "author": "DAN KOE",
+     "handle": "thedankoe",
+     "fav": 7571
+    },
+    {
+     "title": "我手动研究了30600款月入2万到10万美元以上的iOS应用，秘诀简单到离谱",
+     "author": "David Ch",
+     "handle": "chhddavid",
+     "fav": 6981
+    }
+   ]
+  },
+  {
+   "zone": "cn",
+   "category": "other",
+   "articles": 83,
+   "covers": 79,
+   "top5": [
+    {
+     "title": "湿润性聊天",
+     "author": "软苏格拉底",
+     "handle": "Graceruansu",
+     "fav": 3394
+    },
+    {
+     "title": "如何从零 DIY 复刻一只可爱的 Microduck",
+     "author": "yishan",
+     "handle": "tspy",
+     "fav": 1612
+    },
+    {
+     "title": "南方周末被删报道《广西六蓝水库站长谈溃口前24小时》",
+     "author": "大漂亮| C Labs",
+     "handle": "giantcutie666",
+     "fav": 1534
+    },
+    {
+     "title": "性技巧",
+     "author": "软苏格拉底",
+     "handle": "Graceruansu",
+     "fav": 1473
+    },
+    {
+     "title": "搭讪完全指南",
+     "author": "yan（约会版）",
+     "handle": "ZhanlinYan74392",
+     "fav": 1307
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "AI 创作",
+   "articles": 52,
+   "covers": 51,
+   "top5": [
+    {
+     "title": "如何使用Opus 5.5搭建动态设计工作室（全套教程）",
+     "author": "Movez",
+     "handle": "0xMovez",
+     "fav": 22495
+    },
+    {
+     "title": "让你的产品视频呈现高级感（苹果风格框架）",
+     "author": "leo",
+     "handle": "leomeethewoo",
+     "fav": 8937
+    },
+    {
+     "title": "苹果如何让产品视频看起来很高级（抄作业吧）",
+     "author": "leo",
+     "handle": "leomeethewoo",
+     "fav": 5946
+    },
+    {
+     "title": "我在3天内用Opus 5.5制作了10余支动态视频，完整流程在此（已开源）",
+     "author": "Raphael aubry",
+     "handle": "RaphaelAubryy",
+     "fav": 4265
+    },
+    {
+     "title": "利用AI制作3D角色模型记录：借助Claude Opus 5.5与GPT-6 Astra完成从组…",
+     "author": "852話(hakoniwa)",
+     "handle": "8co28",
+     "fav": 4195
+    }
+   ]
+  },
+  {
+   "zone": "gl",
+   "category": "账号支付",
+   "articles": 8,
+   "covers": 6,
+   "top5": [
+    {
+     "title": "如何在10分钟内将你的 AI 编程账单降至0美元（完整配置指南）",
+     "author": "gus",
+     "handle": "igus_ai",
+     "fav": 1145
+    },
+    {
+     "title": "如何在不升级订阅方案的情况下在Grok Bot中节省Token",
+     "author": "kaize",
+     "handle": "0x_kaize",
+     "fav": 1043
+    },
+    {
+     "title": "终极 Cloudflare 指南",
+     "author": "Elia",
+     "handle": "eliakuratli",
+     "fav": 989
+    },
+    {
+     "title": "我发现了一个Codex的漏洞（我认为是），从昨天起就在吞噬使用额度",
+     "author": "Joe Devon",
+     "handle": "joedevon",
+     "fav": 779
+    },
+    {
+     "title": "（附图解）连中学生都能看懂的《Cloudflare》入门",
+     "author": "だん｜AI×クラウドエンジニア",
+     "handle": "dan_pro_man",
+     "fav": 627
+    }
+   ]
+  }
+ ]
+}
